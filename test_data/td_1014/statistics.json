@@ -1,0 +1,14 @@
+{
+    "resultCode": "0",
+    "programsCounter": 1,
+    "mostUsedPrograms": [
+        {
+            "count": 1,
+            "programType": "D",
+            "prCode": "83",
+            "prPosition": "22",
+            "programName": "PROGRAMS.TD.undefined"
+        }
+    ],
+    "loadingPercentage": []
+}

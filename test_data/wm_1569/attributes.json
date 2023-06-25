@@ -1,0 +1,551 @@
+{
+    "resultCode": "0",
+    "shadow": {
+        "parameters": {
+            "voiceStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "forceDelete": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryLevel": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "airWashTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "softWarn": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "loosenStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "temp40": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "strongStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "weight": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "intelligenceStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "purifiedWashStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "temp": {
+                "parNewVal": "40",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "voiceModuleVolume": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "washSpeed": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "machMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "buzzerDisabledCurrent": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errors": {
+                "parNewVal": "00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remoteCtrValid": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "autoDetergentStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "soakWashStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "buzzerDisabled": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "haier_DetergentWeight": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "totalWaterUsed": {
+                "parNewVal": "1294",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "message": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "temp0to30": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "spinSpeed": {
+                "parNewVal": "1400",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "detergentPercent": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "highTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "currentWaterUsed": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "autoDisinfectantStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "cloudProgSrc": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prCode": {
+                "parNewVal": "136",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryCleaningNeeded": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryProgFlag": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program19": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program18": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program17": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "programStats": {
+                "parNewVal": ";3;;;;2;9;2;;1;;;;;;;;;;;27",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program16": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "autoSoftenerStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program11": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program10": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "totalWashCycle": {
+                "parNewVal": "17",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program15": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "detergentBStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program14": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program13": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program12": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "statusSyncRate": {
+                "parNewVal": "1440",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "laundryCycleStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "standbyTimeExtended": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "actualWeight": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "speedUpStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program22": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program21": {
+                "parNewVal": "39",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program20": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "defSetAllowed": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program25": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program24": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program23": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "voiceModuleWakeStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "currentWashCycle": {
+                "parNewVal": "17",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "transMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "currentElectricityUsed": {
+                "parNewVal": "0.00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "washerDryIntensity": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "steamStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "delayStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "haier_SoftenerWeight": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "debugEnabled": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dirtyLevel": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingStandbyTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "stdTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "testCmdReceiveStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "clothesAnionStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "stainType": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "nightWashStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "energySavingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingRinseIterations": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "voiceModuleDataDef": {
+                "parNewVal": "130",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pause": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "doorStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingTimeMM": {
+                "parNewVal": "150",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "texture": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program4": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "cloudProgId": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "voiceModuleWakeUp": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program3": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program6": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program5": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "doorLockStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program8": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program7": {
+                "parNewVal": "9",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "detWarn": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "antiAllergyStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "creaseResistSoakStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program9": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "lockStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingMainWashTime": {
+                "parNewVal": "110",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program2": {
+                "parNewVal": "3",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "program1": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "permanentPressStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prPhase": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "highWaterLevelStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "airWashTempLevel": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "voiceModuleOnOffStatus": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "temp60to90": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "uvSterilizationStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "shoesAnionStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "detergentType": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "totalElectricityUsed": {
+                "parNewVal": "10.73",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        }
+    },
+    "activity": {},
+    "commandHistory": {
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "haier_SoakPrewashSelection": "haier_SoakPrewashSelection"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W",
+                "remoteVisible": "1",
+                "programIntensity": "intensiveWashing",
+                "energyLabel": "3",
+                "prPosition": "7",
+                "suggestedLoadW": "9",
+                "programCluster": "home",
+                "antiWrinkle": "1",
+                "powderDetergentDose": "4",
+                "liquidDetergentDose": "4",
+                "programFamily": "[download|guided]",
+                "tempContribution": "1"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "00000xx00x00xxxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "haier_MainWashSpeed": "45",
+                "creaseResistSoakStatus": "0",
+                "haier_SoakPrewashRotateTime": "20",
+                "cloudProgId": "255",
+                "haier_SoakPrewashSelection": "0",
+                "prCode": "115",
+                "soakWashStatus": "0",
+                "haier_SoakPrewashTemperature": "30",
+                "dryProgFlag": "0",
+                "dryLevel": "0",
+                "strongStatus": "0",
+                "energySavingStatus": "0",
+                "haier_RinseRotateTime": "15",
+                "spinSpeed": "1200",
+                "haier_MainWashWaterLevel": "2",
+                "uvSterilizationStatus": "0",
+                "dryTime": "0",
+                "delayStatus": "0",
+                "rinseIterationTime": "10",
+                "rinseIterations": "3",
+                "haier_SoakPrewashSpeed": "45",
+                "lockStatus": "0",
+                "mainWashTime": "10",
+                "autoSoftenerStatus": "1",
+                "washerDryIntensity": "1",
+                "permanentPressStatus": "0",
+                "autoDetergentStatus": "1",
+                "antiAllergyStatus": "0",
+                "speedUpStatus": "0",
+                "nightWashStatus": "0",
+                "temp": "40",
+                "haier_MainWashRotateTime": "25",
+                "intelligenceStatus": "0",
+                "detergentBStatus": "0",
+                "haier_SoakPrewashStopTime": "5",
+                "haier_MainWashStopTime": "5",
+                "texture": "1",
+                "weight": "5",
+                "highWaterLevelStatus": "0",
+                "operationName": "grOnlineWash",
+                "haier_RinseSpeed": "45",
+                "haier_ConstantTempStatus": "1",
+                "voiceStatus": "0",
+                "haier_SoakPrewashTime": "15",
+                "haier_RinseStopTime": "10",
+                "delayTime": "0",
+                "autoDisinfectantStatus": "0",
+                "cloudProgSrc": "2"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        }
+    },
+    "lastConnEvent": {
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "category": "DISCONNECTED",
+        "instantTime": "1970-01-01T00:00:00.0Z",
+        "timestampEvent": 1687634169143
+    }
+}

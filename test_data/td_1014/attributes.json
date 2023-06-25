@@ -1,0 +1,234 @@
+{
+    "resultCode": "0",
+    "shadow": {
+        "parameters": {
+            "forceDelete": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "programStats": {
+                "parNewVal": ";1;e;;;;;;;;;;;;3;;;;;;;1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prPhase": {
+                "parNewVal": "11",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryLevel": {
+                "parNewVal": "14",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "ironRemindStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "debugEnabled": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempLevel": {
+                "parNewVal": "4",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingStandbyTime": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "programClass": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "stdTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "anionStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "machMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "statusSyncRate": {
+                "parNewVal": "1440",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errors": {
+                "parNewVal": "00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pause": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remoteCtrValid": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "delayTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "ironingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "doorStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingTimeMM": {
+                "parNewVal": "270",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "buzzerDisabled": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "texture": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "cloudProgId": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "message": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "mitesRemovalStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "onOffStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "lockStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "highTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "delicateStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "transMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "dryTimeMM": {
+                "parNewVal": "180",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "antiCreaseTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "cloudProgSrc": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prCode": {
+                "parNewVal": "62",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "airWashMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "sterilizationStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "fastDryStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "airwashSprayTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        }
+    },
+    "activity": {},
+    "commandHistory": {
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "suggestedLoadD": "9",
+                "remoteVisible": "1",
+                "programCluster": "traditional",
+                "tumblingStatus": "0",
+                "energyLabel": "2",
+                "prPosition": "1",
+                "programFamily": "[dashboard|auto]"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "xx0xxxxxx0000x00",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "ironRemindStatus": "1",
+                "cloudProgId": "255",
+                "texture": "13",
+                "delicateStatus": "0",
+                "anionStatus": "0",
+                "prCode": "62",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "dryLevel": "14",
+                "tempLevel": "2",
+                "pause": "0",
+                "sterilizationStatus": "0",
+                "airWashMode": "1",
+                "mitesRemovalStatus": "0",
+                "airwashSprayTime": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": "360",
+                "delayTime": "870",
+                "cloudProgSrc": "2",
+                "dryTimeMM": "0",
+                "onOffStatus": "1",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        }
+    },
+    "lastConnEvent": {
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "category": "DISCONNECTED",
+        "instantTime": "1970-01-01T00:00:00.0Z",
+        "timestampEvent": 1686863376831
+    }
+}
