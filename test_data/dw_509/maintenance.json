@@ -1,0 +1,22 @@
+{
+    "filterCleaning": {
+        "tot": 15,
+        "count": 136,
+        "remaining": -121,
+        "percentage": 907
+    },
+    "drumCleaning": {
+        "tot": 100,
+        "count": 136,
+        "remaining": -36,
+        "percentage": 136
+    },
+    "sprayArmsCleaning": {
+        "tot": 100,
+        "count": 136,
+        "remaining": -36,
+        "percentage": 136
+    },
+    "tabs": 0,
+    "lastCheckup": null
+}

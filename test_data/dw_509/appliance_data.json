@@ -1,0 +1,146 @@
+{
+    "id": 509,
+    "code": "00000000",
+    "applianceTypeId": 9,
+    "applianceTypeName": "DW",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "XIB 6B2D3FB",
+    "series": "haier2021",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.4.0",
+    "waterHard": 3,
+    "firstEnrollment": false,
+    "attributes": [
+        {
+            "id": 10873,
+            "parName": "series",
+            "parValue": "haier2021",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10874,
+            "parName": "display",
+            "parValue": "5D",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10875,
+            "parName": "lowerBarrierDate",
+            "parValue": "2051",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10876,
+            "parName": "installationType",
+            "parValue": "bi",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10877,
+            "parName": "interfaceType",
+            "parValue": "series|installationType|display|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10878,
+            "parName": "option",
+            "parValue": "openDoor|extraDry",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10879,
+            "parName": "sensor",
+            "parValue": "soil|salt|smartLoading",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10880,
+            "parName": "motor",
+            "parValue": "bldc",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10881,
+            "parName": "placeSetting",
+            "parValue": "16",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10882,
+            "parName": "drawer",
+            "parValue": "3",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10883,
+            "parName": "upRackVol",
+            "parValue": "27600",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10884,
+            "parName": "lowRackVol",
+            "parValue": "49400",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10885,
+            "parName": "basketVol",
+            "parValue": "12700",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 25872,
+            "parName": "counters",
+            "parValue": "0",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38167,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 62788,
+            "parName": "fwLabel",
+            "parValue": "nuib",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 3,
+    "applianceModelId": 509,
+    "firstEnrollmentTBC": false,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "41053244",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "0000000000000000",
+    "nickName": "Xxxxxxxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 202,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": -0.0000000,
+        "lat": 00.0000000
+    },
+    "PK": "xxxx#xx-xxxx-0:0x0xx000-xxxx-0xxx-x00x-x000xx0x00x0"
+}

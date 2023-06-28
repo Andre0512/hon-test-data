@@ -1,0 +1,580 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "PK": "xxxx#xx-xxxx-0:0x0xx000-xxxx-0xxx-x00x-x000xx0x00x0#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "ancillaryParameters": {
+                "ecoIndex": "4",
+                "powerWashPrz": "1",
+                "remoteActionable": "1",
+                "temp": "60",
+                "programType": "WD",
+                "waterSaving": "68",
+                "suggestedLoadD": "RL100",
+                "remoteVisible": "0",
+                "energyLabel": 2,
+                "ecoIndexOpt5": "0",
+                "remainingTime": "179",
+                "ecoIndexOpt4": "0",
+                "waterEfficiency": "3",
+                "functionalId": "2",
+                "programFamily": "[voice]",
+                "programRules": {
+                    "opt2": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt3": {
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt4": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt5": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                }
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "xxx0x00xx0xx0x00",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prStr": "0",
+                "extraDry": 0,
+                "checkUpStatus": "0",
+                "prCode": "8",
+                "delayTime": 0,
+                "prPosition": "1",
+                "openDoor": 0,
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "PK": "xxxx#xx-xxxx-0:0x0xx000-xxxx-0xxx-x00x-x000xx0x00x0#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "ancillaryParameters": {
+                "ecoIndex": "4",
+                "powerWashPrz": "1",
+                "remoteActionable": "1",
+                "temp": "60",
+                "programType": "WD",
+                "waterSaving": "68",
+                "suggestedLoadD": "RL100",
+                "remoteVisible": "0",
+                "energyLabel": 2,
+                "program": "iot_eco_bldc",
+                "ecoIndexOpt5": "0",
+                "remainingTime": "179",
+                "ecoIndexOpt4": "0",
+                "waterEfficiency": "3",
+                "functionalId": "2",
+                "programFamily": "[voice]",
+                "programRules": {
+                    "opt2": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt3": {
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt4": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt5": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                }
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "0x0xxxxx000xxxx0",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prStr": "0",
+                "extraDry": 0,
+                "checkUpStatus": "0",
+                "prCode": "8",
+                "delayTime": 0,
+                "program": "iot_eco_bldc",
+                "prPosition": "1",
+                "openDoor": 0,
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "PK": "xxxx#xx-xxxx-0:0x0xx000-xxxx-0xxx-x00x-x000xx0x00x0#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "ancillaryParameters": {
+                "ecoIndex": "4",
+                "remoteActionable": "1",
+                "temp": "45",
+                "programType": "WD",
+                "waterSaving": "77",
+                "suggestedLoadD": "RL100",
+                "remoteVisible": "1",
+                "energyLabel": 4,
+                "ecoIndexOpt5": "0",
+                "remainingTime": "179",
+                "ecoIndexOpt4": "0",
+                "waterEfficiency": "4",
+                "functionalId": "2",
+                "programFamily": "[dashboard|guided]",
+                "programRules": {
+                    "opt2": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt3": {
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt4": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt5": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                }
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "x00xxx0000x000x0",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prStr": "0",
+                "extraDry": 0,
+                "waterHard": 4,
+                "checkUpStatus": "0",
+                "prCode": "8",
+                "delayTime": 0,
+                "prPosition": "1",
+                "openDoor": 0,
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "PK": "xxxx#xx-xxxx-0:0x0xx000-xxxx-0xxx-x00x-x000xx0x00x0#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#0000-00-00X00:00:00.0X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.RAPID_29",
+            "ancillaryParameters": {
+                "ecoIndex": "5",
+                "powerWashPrz": "1",
+                "remoteActionable": "1",
+                "programType": "WD",
+                "temp": "50",
+                "waterSaving": "83",
+                "remoteVisible": "1",
+                "suggestedLoadD": 8,
+                "energyLabel": "5",
+                "remainingTime": "29",
+                "functionalId": "7",
+                "waterEfficiency": "5",
+                "programFamily": "[dashboard|guided]",
+                "programRules": {
+                    "opt2": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt3": {
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt4": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt5": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    },
+                    "opt5": {
+                        "opt3": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt4": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        },
+                        "opt2": {
+                            "1": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                }
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Rapido 29' 50\u00b0C",
+                "channel": "mobileApp",
+                "energyLabel": "5",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "1.44.2",
+                "deviceModel": "iPhone12,3",
+                "osVersion": "15.6",
+                "mobileId": "XX000X00-0X00-000X-XXXX-00X000XX00XX",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "extraDry": "0",
+                "waterHard": "4",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "prCode": "11",
+                "openDoor": "0",
+                "prPosition": "8",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

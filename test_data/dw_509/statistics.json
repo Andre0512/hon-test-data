@@ -1,0 +1,42 @@
+{
+    "resultCode": "0",
+    "programsCounter": 99,
+    "mostUsedPrograms": [
+        {
+            "count": 114,
+            "prCode": "8",
+            "prPosition": "1",
+            "programName": "PROGRAMS.DW.ECO_BLDC"
+        },
+        {
+            "count": 13,
+            "prCode": "8",
+            "prPosition": "1",
+            "programName": "PROGRAMS.DW.undefined"
+        },
+        {
+            "count": 2,
+            "prCode": "15",
+            "prPosition": "4",
+            "programName": "PROGRAMS.DW.AUTO_UNIVERSAL_SOIL"
+        },
+        {
+            "count": 1,
+            "prCode": "12",
+            "prPosition": "9",
+            "programName": "PROGRAMS.DW.PREWASH"
+        },
+        {
+            "count": 1,
+            "prCode": "16",
+            "prPosition": "5",
+            "programName": "PROGRAMS.DW.AUTO_SENSOR_SOIL"
+        }
+    ],
+    "temperatureUsage": {
+        "temp45to55": 85,
+        "temp60to65": 6,
+        "temp70to75": 8
+    },
+    "loadingPercentage": []
+}
