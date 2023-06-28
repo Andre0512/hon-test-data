@@ -68,8 +68,8 @@
     "eepromId": 41,
     "applianceStatus": 1,
     "coords": {
-        "lng": 00.0000000,
-        "lat": 00.0000000
+        "lng": 0.0000000,
+        "lat": 0.0000000
     },
     "PK": "xxxx#xx-xxxx-0:x0x00000-00x0-0x0x-x0x0-x0x0x0000x00"
 }
