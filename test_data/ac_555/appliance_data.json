@@ -1,0 +1,94 @@
+{
+    "id": 555,
+    "code": "XXXXXXX1111",
+    "applianceTypeId": 11,
+    "applianceTypeName": "AC",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "AS09TS4HRA-M",
+    "series": "tundra",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "attributes": [
+        {
+            "id": 11524,
+            "parName": "lowerBarrierDate",
+            "parValue": "2001",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11525,
+            "parName": "type",
+            "parValue": "rac",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11526,
+            "parName": "series",
+            "parValue": "tundra",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11527,
+            "parName": "seriesVersion",
+            "parValue": "baseStation",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11528,
+            "parName": "installationType",
+            "parValue": "1to2|1toN",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11529,
+            "parName": "windType",
+            "parValue": "vertical",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 11530,
+            "parName": "interfaceType",
+            "parValue": "type|series|seriesVersion|option|windType|installationType\t",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38211,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61272,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "applianceModelId": 555,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XXXXXXX1111X1X1X1111",
+    "nickName": "Xxxxxxx-xxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1111x11x-xxxx-1x11-xx1x-x11x1x11xx11",
+    "SK_Secondary": "XX#xxxxXxxxx#1111-11-11"
+}
