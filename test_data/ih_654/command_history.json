@@ -1,0 +1,112 @@
+[
+    {
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:x1xxx111-11x1-1x11-xxx1-x11x1x11x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "remoteVisibile": "0",
+                "cookingMode": "1",
+                "cookingLevel": "0",
+                "programFamily": "[special]"
+            },
+            "applianceType": "IH",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.9",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "xx111111x1x111xx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prPhase1_Power": "9",
+                "prPhase2_Temp": "0",
+                "prPhase3_Time": "0",
+                "temp": "0",
+                "prPhase2_Time": "0",
+                "prPhase3_Temp": "0",
+                "prCode": "194",
+                "prPhase5_Time": "0",
+                "prPhase3_Power": "0",
+                "prPhase5_Temp": "0",
+                "probe": "0",
+                "powerManagement": "0",
+                "prPhase4_Power": "0",
+                "prPhase1_Time": "4",
+                "prPhase4_Time": "0",
+                "zone": "1",
+                "prPhase2_Power": "0",
+                "prPhase5_Power": "0",
+                "prPhase1_Temp": "0",
+                "prPhase4_Temp": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:x1xxx111-11x1-1x11-xxx1-x11x1x11x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "remoteVisibile": "0",
+                "cookingMode": 1,
+                "cookingLevel": "4",
+                "programFamily": "[special]"
+            },
+            "applianceType": "IH",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "1x111xx1x1xxx1xx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prPhase1_Power": 9,
+                "prPhase2_Temp": "0",
+                "prPhase3_Time": "0",
+                "temp": "0",
+                "prPhase2_Time": 5,
+                "prPhase3_Temp": "0",
+                "prCode": "195",
+                "prPhase5_Time": "0",
+                "prPhase3_Power": "0",
+                "prPhase5_Temp": "0",
+                "probe": "0",
+                "powerManagement": 0,
+                "prPhase4_Power": "0",
+                "prPhase1_Time": 4,
+                "prPhase4_Time": "0",
+                "zone": 1,
+                "prPhase2_Power": 10,
+                "prPhase5_Power": "0",
+                "prPhase1_Temp": "0",
+                "prPhase4_Temp": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

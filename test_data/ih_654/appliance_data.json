@@ -1,0 +1,125 @@
+{
+    "id": 654,
+    "code": "11111111",
+    "applianceTypeId": 3,
+    "applianceTypeName": "IH",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HA2MTSJ68MC",
+    "zone": "4",
+    "series": "series6",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "1.2.5",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 14119,
+            "parName": "zone",
+            "parValue": "4",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14120,
+            "parName": "lowerBarrierDate",
+            "parValue": "2134",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14121,
+            "parName": "power",
+            "parValue": "15",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14122,
+            "parName": "probe",
+            "parValue": "0",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14123,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|zone|option|power|probe",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14124,
+            "parName": "option",
+            "parValue": "flexy",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14125,
+            "parName": "series",
+            "parValue": "series6",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14126,
+            "parName": "seriesVersion",
+            "parValue": "2021",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14127,
+            "parName": "zoneConfig",
+            "parValue": "multi_1_noprobe_15|multi_2_noprobe_15|multi_3_noprobe_15|multi_4_noprobe_15",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 15215,
+            "parName": "zoneCombination",
+            "parValue": "0",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37683,
+            "parName": "skeuomorphic",
+            "parValue": "2flex",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38308,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 62281,
+            "parName": "fwLabel",
+            "parValue": "iotfw_midea",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 654,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111",
+    "nickName": "Xxxxxxxxx Xxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:x1xxx111-11x1-1x11-xxx1-x11x1x11x11x"
+}

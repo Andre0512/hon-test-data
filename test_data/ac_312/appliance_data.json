@@ -1,0 +1,96 @@
+{
+    "id": 312,
+    "code": "XXX1X1X1111",
+    "applianceTypeId": 11,
+    "applianceTypeName": "AC",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "AS35S2SF1FA-WH",
+    "series": "flexis",
+    "fwVersion": "5.15.0",
+    "unitConfiguration": "1to2",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 8665,
+            "parName": "lowerBarrierDate",
+            "parValue": "2001",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8666,
+            "parName": "type",
+            "parValue": "rac",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8667,
+            "parName": "series",
+            "parValue": "flexis",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8668,
+            "parName": "seriesVersion",
+            "parValue": "2021",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8669,
+            "parName": "installationType",
+            "parValue": "1to1|1to2|1toN",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8670,
+            "parName": "interfaceType",
+            "parValue": "type|series|seriesVersion|option|windType|installationType",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10651,
+            "parName": "windType",
+            "parValue": "vertical|horizontal",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37983,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61314,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "applianceModelId": 312,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XXX1X1X1111X1X111111",
+    "nickName": "Xxxxxx Xxxx XX",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:x1xxx111-11x1-1x11-xxx1-x11x1x11x11x",
+    "SK_Secondary": "XX#xxxxXxxxx#1111-11-11"
+}
