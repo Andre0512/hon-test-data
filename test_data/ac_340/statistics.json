@@ -1,0 +1,31 @@
+{
+    "mostUsedPrograms": [
+        {
+            "count": 1073,
+            "programName": "PROGRAMS.AC.HOME_ASSISTANT",
+            "prCode": null
+        },
+        {
+            "count": 102,
+            "programName": "PROGRAMS.AC.IOT_COOL",
+            "prCode": null
+        },
+        {
+            "count": 60,
+            "programName": "PROGRAMS.AC.IOT_AUTO",
+            "prCode": null
+        },
+        {
+            "count": 44,
+            "programName": "PROGRAMS.AC.IOT_HEAT",
+            "prCode": null
+        },
+        {
+            "count": 17,
+            "programName": "PROGRAMS.AC.IOT_DRY",
+            "prCode": null
+        }
+    ],
+    "mostUsedRecipes": [],
+    "programsCounter": 0
+}
