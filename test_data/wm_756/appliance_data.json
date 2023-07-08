@@ -1,0 +1,166 @@
+{
+    "id": 756,
+    "code": "11111111",
+    "applianceTypeId": 1,
+    "applianceTypeName": "WM",
+    "brand": "hoover",
+    "connectivity": "wifi|ble",
+    "modelName": "H5WPB447AMBC/1-S",
+    "series": "h-wash500Pro",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.14.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 14527,
+            "parName": "lowerBarrierDate",
+            "parValue": "2101",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14528,
+            "parName": "loadCapacityWash",
+            "parValue": "7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14529,
+            "parName": "series",
+            "parValue": "h-wash500Pro",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14530,
+            "parName": "option",
+            "parValue": "tumbling|steam",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14531,
+            "parName": "rpm",
+            "parValue": "1400",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14532,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|loadCapacityWash|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14533,
+            "parName": "opt1",
+            "parValue": "opt2|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14534,
+            "parName": "opt2",
+            "parValue": "opt1|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14535,
+            "parName": "opt3",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14536,
+            "parName": "opt4",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14537,
+            "parName": "opt5",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14538,
+            "parName": "opt6",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14539,
+            "parName": "opt7",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14540,
+            "parName": "opt8",
+            "parValue": "opt1|opt2|opt3|opt4|opt5|opt6|opt7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14541,
+            "parName": "supportedLanguage",
+            "parValue": "en|it|fr|nl|pt|es|de|bg|cs|sk|hr|el|pl|sr|sl|ro|ru|uk|hu|da|fi|no|sv|tr",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14542,
+            "parName": "tumblingType",
+            "parValue": "manual",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19612,
+            "parName": "platform",
+            "parValue": "CHG",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38392,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 62528,
+            "parName": "fwLabel",
+            "parValue": "iotfw_wmwd",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 756,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "70018052",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111",
+    "nickName": "Xxxxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 7120,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:11x11111-x11x-1x11-1xx1-111x111x1x11"
+}

@@ -1,0 +1,11 @@
+{
+    "resultCode": "0",
+    "programsCounter": 0,
+    "mostUsedPrograms": [],
+    "temperatureUsage": {
+        "temp0to30": 1,
+        "temp40": 0,
+        "temp60to90": 0
+    },
+    "loadingPercentage": []
+}
