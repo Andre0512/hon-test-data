@@ -1,0 +1,128 @@
+{
+    "id": 571,
+    "code": "X11X11X1111",
+    "applianceTypeId": 14,
+    "applianceTypeName": "REF",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HFW7819EWMP",
+    "series": "multidoor",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "attributes": [
+        {
+            "id": 16016,
+            "parName": "lowerBarrierDate",
+            "parValue": "2101",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16017,
+            "parName": "series",
+            "parValue": "multidoor",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16018,
+            "parName": "seriesVersion",
+            "parValue": "fd83Series7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16019,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16020,
+            "parName": "vtZone",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16021,
+            "parName": "doorNumber",
+            "parValue": "4",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16022,
+            "parName": "sensor",
+            "parValue": "doorAlarmFridge",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16023,
+            "parName": "option",
+            "parValue": "autoSet|superFreeze|holiday|cheese|zeroFresh|fruitAndVeg",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16024,
+            "parName": "technology",
+            "parValue": "st",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 16025,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|doorNumber",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19266,
+            "parName": "enrollmentType",
+            "parValue": "app",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 28037,
+            "parName": "zones",
+            "parValue": "fridge|freezer|vtRoom1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38227,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61607,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "applianceModelId": 571,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "X11X11X1111XXX111111",
+    "nickName": "Xxxxxxx11xxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": -1.111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:xx11x111-1x11-1111-11x1-x1x1xxxxx1x1"
+}
