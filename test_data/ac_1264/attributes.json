@@ -1,0 +1,442 @@
+{
+    "resultCode": "0",
+    "shadow": {
+        "parameters": {
+            "tempCoilerIndoor": {
+                "parNewVal": "10.00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "totalWorkTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempSel": {
+                "parNewVal": "25.00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "halfDegreeSettingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempAirOutdoor": {
+                "parNewVal": "92",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "debugEnabled": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "co2ValueIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempInAirOutdoor": {
+                "parNewVal": "-64",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "selfCleaningStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pm2p5ValueIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "fanStatusOutdoor": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempUnit": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "stdTransRate": {
+                "parNewVal": "3600",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "airQuality": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "intelligenceStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "machMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "humidityIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "energySavingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "vocValueIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errors": {
+                "parNewVal": "00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "defrostStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "compressorFrequency": {
+                "parNewVal": "74",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempIndoor": {
+                "parNewVal": "26.50",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "healthMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "fourWayValveStatus": {
+                "parNewVal": "2",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "10degreeHeatingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "freshAirStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "expansionValveOpenDegree": {
+                "parNewVal": "88",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "windDirectionVertical": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "muteStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "onOffStatus": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "lockStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "highTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "ch2oCleaningStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errAckFlag": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "windDirectionHorizontal": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "power": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "ch2oValueIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "acType": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "machineModeHK": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempCoilerOutdoor": {
+                "parNewVal": "44",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pm2p5LevelIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "sensingResult": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "screenDisplayStatus": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "silentSleepStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "humanSensingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "energySavePeriod": {
+                "parNewVal": "15",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "filterChangeStatusLocal": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempDefrostOutdoor": {
+                "parNewVal": "-64",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "operationSource": {
+                "parNewVal": "3",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pm2p5ValueOutdoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "statusSyncRate": {
+                "parNewVal": "1440",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "lightStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "electricHeatingStatusIndoor": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempOutdoor": {
+                "parNewVal": "39.00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pm2p5CleaningStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "compressorCurrent": {
+                "parNewVal": "51.10",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "pmvStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "humiditySel": {
+                "parNewVal": "30",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "echoStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "windSpeed": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "specialMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "transMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "electricHeatingStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "compressorStatus": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "humidificationStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "totalElectricityUsed": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "fanStatusIndoor": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "rapidMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        }
+    },
+    "activity": {
+        "resultCode": "0",
+        "activityStarted": "1970-01-01T00:00:00.0Z",
+        "category": "CYCLE",
+        "ttl": 1697715864,
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "attributes": {
+            "machMode": "4",
+            "screenDisplayStatus": "1",
+            "echoStatus": "0",
+            "tempSel": "22",
+            "10degreeHeatingStatus": "0",
+            "silentSleepStatus": "0",
+            "muteStatus": "0",
+            "rapidMode": "0",
+            "healthMode": "0",
+            "humanSensingStatus": "0",
+            "selfCleaning56Status": "0",
+            "selfCleaningStatus": "0",
+            "specialMode": "0",
+            "energySavePeriod": "15",
+            "heatAccumulationStatus": "0",
+            "tempUnit": "0",
+            "pmvStatus": "0",
+            "intelligenceStatus": "0",
+            "halfDegreeSettingStatus": "0",
+            "lockStatus": "0",
+            "electricHeatingStatus": "0",
+            "humiditySel": "30",
+            "energySavingStatus": "0",
+            "lightStatus": "0",
+            "ch2oCleaningStatus": "0",
+            "pm2p5CleaningStatus": "0",
+            "humidificationStatus": "0",
+            "freshAirStatus": "0",
+            "windSpeed": "5",
+            "windDirectionVertical": "5",
+            "windDirectionHorizontal": "0",
+            "ecoMode": "0",
+            "cleaningTimeStatus": "0",
+            "filterChangeStatusCloud": "0",
+            "tempCoilerIndoor": "13.00",
+            "tempAirOutdoor": "77",
+            "co2ValueIndoor": "0",
+            "tempInAirOutdoor": "-64",
+            "pm2p5ValueIndoor": "0",
+            "fanStatusOutdoor": "2",
+            "airQuality": "0",
+            "humidityIndoor": "0",
+            "vocValueIndoor": "0",
+            "defrostStatus": "0",
+            "compressorFrequency": "74",
+            "tempIndoor": "28.00",
+            "fourWayValveStatus": "2",
+            "expansionValveOpenDegree": "88",
+            "errAckFlag": "0",
+            "power": "0",
+            "ch2oValueIndoor": "0",
+            "acType": "0",
+            "machineModeHK": "0",
+            "tempCoilerOutdoor": "42",
+            "pm2p5LevelIndoor": "0",
+            "sensingResult": "0",
+            "tempDefrostOutdoor": "-64",
+            "operationSource": "3",
+            "pm2p5ValueOutdoor": "0",
+            "electricHeatingStatusIndoor": "0",
+            "tempOutdoor": "38.00",
+            "compressorCurrent": "51.10",
+            "compressorStatus": "1",
+            "fanStatusIndoor": "1",
+            "appVersion": "2.0.10",
+            "osVersion": "31",
+            "deviceModel": "exynos9820",
+            "mobileOs": "android",
+            "channel": "mobileApp",
+            "origin": "standardProgram",
+            "programFamily": "[standard]",
+            "principalUserId": "0016800000WRiomAAD"
+        },
+        "activityExecutionStarted": "2023-07-21 11:44:23",
+        "applianceTypeName": "AC"
+    },
+    "commandHistory": {
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "ecoMode": "0",
+                "programFamily": "[standard]",
+                "remoteVisible": "1"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "111xxxx11x111111",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": "0",
+                "tempSel": "22",
+                "healthMode": "0",
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "screenDisplayStatus": "1",
+                "pmvStatus": "0",
+                "humiditySel": "30",
+                "windDirectionVertical": "5",
+                "lightStatus": "0",
+                "energySavingStatus": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "0",
+                "windSpeed": "5",
+                "onOffStatus": "1",
+                "electricHeatingStatus": "0",
+                "ch2oCleaningStatus": "0",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "rapidMode": "0",
+                "halfDegreeSettingStatus": "0",
+                "operationName": "grSetDAC",
+                "silentSleepStatus": "0",
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": "0",
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z"
+    },
+    "lastConnEvent": {
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "category": "CONNECTED",
+        "instantTime": "1970-01-01T00:00:00.0Z",
+        "timestampEvent": 1689660538527
+    }
+}
