@@ -1,0 +1,362 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x11xx1x-1x11-1xxx-1xxx-xxx1x111x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.RAPID_44_MIN",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "3",
+                "remoteVisible": "1",
+                "programCluster": "quick",
+                "liquidDetergentDose": "2",
+                "energyLabel": "4",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Rapido 44'",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "lahaina",
+                "osVersion": "33",
+                "mobileId": "111xxxx11x1xx11x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "40",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "7",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x11xx1x-1x11-1xxx-1xxx-xxx1x111x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.RESISTANT_COTTON",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D+S",
+                "steamType": "C",
+                "suggestedLoadW": "12",
+                "remoteVisible": "1",
+                "programCluster": "traditional",
+                "powderDetergentDose": "4",
+                "liquidDetergentDose": "4",
+                "programIntensity": "intensiveWashing",
+                "energyLabel": "5",
+                "programFamily": "[dashboard]",
+                "tempContribution": "1"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Cotone Resistente",
+                "channel": "mobileApp",
+                "energyLabel": "5",
+                "origin": "lastProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "lahaina",
+                "osVersion": "33",
+                "mobileId": "111xxxx11x1xx11x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "2",
+                "temp": "40",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "1",
+                "prewash": "0",
+                "prPosition": "12",
+                "extraRinse2": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x11xx1x-1x11-1xxx-1xxx-xxx1x111x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.DRAIN_SPIN",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "12",
+                "remoteVisible": "1",
+                "programCluster": "traditional",
+                "programIntensity": "extraCare",
+                "energyLabel": "0",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Scarico e Centrifuga",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "lahaina",
+                "osVersion": "33",
+                "mobileId": "111xxxx11x1xx11x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "0",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "2",
+                "prewash": "0",
+                "prPosition": "9",
+                "extraRinse2": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x11xx1x-1x11-1xxx-1xxx-xxx1x111x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.RESISTANT_COTTON",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D+S",
+                "steamType": "C",
+                "suggestedLoadW": "12",
+                "remoteVisible": "1",
+                "programCluster": "traditional",
+                "powderDetergentDose": "4",
+                "liquidDetergentDose": "4",
+                "programIntensity": "intensiveWashing",
+                "energyLabel": "5",
+                "programFamily": "[dashboard]",
+                "tempContribution": "1"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Cotone Resistente",
+                "channel": "mobileApp",
+                "energyLabel": "5",
+                "origin": "favouriteProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "lahaina",
+                "osVersion": "33",
+                "mobileId": "111xxxx11x1xx11x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "2",
+                "temp": "40",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "1",
+                "prewash": "0",
+                "prPosition": "12",
+                "extraRinse2": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x11xx1x-1x11-1xxx-1xxx-xxx1x111x11x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.DRAIN_SPIN",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "12",
+                "remoteVisible": "1",
+                "programCluster": "traditional",
+                "programIntensity": "extraCare",
+                "energyLabel": "0",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Scarico e Centrifuga",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "lahaina",
+                "osVersion": "33",
+                "mobileId": "111xxxx11x1xx11x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "0",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "2",
+                "prewash": "0",
+                "prPosition": "9",
+                "extraRinse2": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1000",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

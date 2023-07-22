@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 78,
+    "mostUsedPrograms": [
+        {
+            "count": 48,
+            "programType": "W+D+S",
+            "prCode": "1",
+            "prPosition": "12",
+            "programName": "PROGRAMS.WM_WD.RESISTANT_COTTON"
+        },
+        {
+            "count": 16,
+            "programType": "W+D",
+            "prCode": "11",
+            "prPosition": "7",
+            "programName": "PROGRAMS.WM_WD.RAPID_44_MIN"
+        },
+        {
+            "count": 5,
+            "programType": "W+D",
+            "prCode": "2",
+            "prPosition": "9",
+            "programName": "PROGRAMS.WM_WD.DRAIN_SPIN"
+        },
+        {
+            "count": 2,
+            "programType": "W+D+S",
+            "prCode": "1",
+            "prPosition": "12",
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_BED_LINEN"
+        },
+        {
+            "count": 2,
+            "programType": "W+D+S",
+            "prCode": "1",
+            "prPosition": "12",
+            "programName": "PROGRAMS.WD.RESISTANT_COTTON"
+        }
+    ],
+    "temperatureUsage": {
+        "temp0to30": 14,
+        "temp60to90": 2,
+        "temp40": 108
+    },
+    "loadingPercentage": [
+        {
+            "max": 3,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3
+        },
+        {
+            "max": 3,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3
+        },
+        {
+            "max": null,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": null
+        },
+        {
+            "max": null,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": null
+        },
+        {
+            "max": 2,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2
+        }
+    ]
+}
