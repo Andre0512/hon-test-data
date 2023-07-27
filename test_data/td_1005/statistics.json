@@ -1,0 +1,14 @@
+{
+    "resultCode": "0",
+    "programsCounter": 2,
+    "mostUsedPrograms": [
+        {
+            "count": 2,
+            "programType": "D",
+            "prCode": "74",
+            "prPosition": "13",
+            "programName": "PROGRAMS.TD.HQD_TIMER"
+        }
+    ],
+    "loadingPercentage": []
+}

@@ -1,0 +1,160 @@
+{
+    "id": 1005,
+    "code": "XX111XX1111",
+    "applianceTypeId": 8,
+    "applianceTypeName": "TD",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HD90-A2959 UK",
+    "series": "959",
+    "structure": "heatpump",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 17972,
+            "parName": "lowerBarrierDate",
+            "parValue": "2101",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17973,
+            "parName": "loadCapacityDry",
+            "parValue": "9",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17974,
+            "parName": "series",
+            "parValue": "959",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17975,
+            "parName": "option",
+            "parValue": "tumbling",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17976,
+            "parName": "tumblingType",
+            "parValue": "auto",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17977,
+            "parName": "structure",
+            "parValue": "heatpump",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17978,
+            "parName": "tankPosition",
+            "parValue": "tray",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17979,
+            "parName": "display",
+            "parValue": "4D",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17980,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|display|structure|tankPosition",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17981,
+            "parName": "supportedLanguage",
+            "parValue": "en",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17982,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17983,
+            "parName": "remainingTime",
+            "parValue": "remainingTimeMainDry+remainingTimeHygienic",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17984,
+            "parName": "remainingTimeHygienic",
+            "parValue": "{\"sterilizationStatus\":{\"0\":0,\"1\":60}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17985,
+            "parName": "remainingTimeMainDry",
+            "parValue": "{\"prCode\":{\"99\":30,\"62|64|65|66|67|68|69|73|82|83|88|100\":{\"dryLevel\":{\"11\":\"remainingTimeDryTimeMM\",\"12\":\"#suggestedLoadDKG*22+6\",\"13\":\"#suggestedLoadDKG*22+36\",\"14\":\"#suggestedLoadDKG*22+66\"}},\"63|70|71|72|86|87|90|92|94|95\":{\"dryLevel\":{\"11\":\"remainingTimeDryTimeMM\",\"12\":\"#suggestedLoadDKG*18+17\",\"13\":\"#suggestedLoadDKG*18+37\",\"14\":\"#suggestedLoadDKG*18+57\"}},\"74|75|76|77|78|79|80|81|84|85|89|91|93|96|97|98|101|102\":{\"dryLevel\":{\"11\":\"remainingTimeDryTimeMM\",\"default\":\"#suggestedLoadDKG*40-10\"}}}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 17986,
+            "parName": "suggestedLoadDKG",
+            "parValue": "{\"round\":0,\"suggestedLoadD\":{\"RL100\":\"#loadCapacityDry*1\",\"RL95\":\"#loadCapacityDry*0.95\",\"RL90\":\"#loadCapacityDry*0.9\",\"RL85\":\"#loadCapacityDry*0.85\",\"RL80\":\"#loadCapacityDry*0.8\",\"RL75\":\"#loadCapacityDry*0.75\",\"RL70\":\"#loadCapacityDry*0.7\",\"RL65\":\"#loadCapacityDry*0.65\",\"RL60\":\"#loadCapacityDry*0.6\",\"RL55\":\"#loadCapacityDry*0.55\",\"RL50\":\"#loadCapacityDry*0.5\",\"RL45\":\"#loadCapacityDry*0.45\",\"RL40\":\"#loadCapacityDry*0.4\",\"RL35\":\"#loadCapacityDry*0.35\",\"RL30\":\"#loadCapacityDry*0.3\",\"RL25\":\"#loadCapacityDry*0.25\",\"RL20\":\"#loadCapacityDry*0.2\",\"RL15\":\"#loadCapacityDry*0.15\",\"RL10\":\"#loadCapacityDry*0.1\",\"RL5\":\"#loadCapacityDry*0.05\",\"AL120\":12,\"AL115\":11.5,\"AL110\":11,\"AL105\":10.5,\"AL100\":10,\"AL95\":9.5,\"AL90\":9,\"AL85\":8.5,\"AL80\":8,\"AL75\":7.5,\"AL70\":7,\"AL65\":6.5,\"AL60\":6,\"AL55\":5.5,\"AL50\":5,\"AL45\":4.5,\"AL40\":4,\"AL35\":3.5,\"AL30\":3,\"AL25\":2.5,\"AL20\":2,\"AL15\":1.5,\"AL10\":1,\"AL5\":0.5,\"NI3\":2}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19676,
+            "parName": "platform",
+            "parValue": "HQD",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38633,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61624,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 1,
+    "applianceModelId": 1005,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XX111XX1111XXX111111",
+    "nickName": "Xxxxxx xxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": -1.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1xx11x1x-1111-1x11-1x1x-1x1x1x1x1111"
+}

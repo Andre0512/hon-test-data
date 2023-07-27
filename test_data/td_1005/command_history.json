@@ -1,0 +1,287 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx11x1x-1111-1x11-1x1x-1x1x1x1x1111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "suggestedLoadD": "3.6",
+                "remoteVisible": "1",
+                "programCluster": "specialCare",
+                "tumblingStatus": "1",
+                "energyLabel": "4",
+                "prPosition": "6",
+                "programFamily": "[hidden|auto]"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11xx1x111x11x1xx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "ironRemindStatus": "1",
+                "cloudProgId": "255",
+                "texture": "14",
+                "delicateStatus": "0",
+                "anionStatus": "0",
+                "prCode": "67",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "dryLevel": "14",
+                "tempLevel": "4",
+                "pause": "0",
+                "sterilizationStatus": "0",
+                "airWashMode": "1",
+                "mitesRemovalStatus": "0",
+                "airwashSprayTime": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": "360",
+                "delayTime": "0",
+                "cloudProgSrc": "2",
+                "dryTimeMM": "0",
+                "onOffStatus": "1",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx11x1x-1111-1x11-1x1x-1x1x1x1x1111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "programName": "PROGRAMS.TD.HQD_SHIRT",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "suggestedLoadD": 3.6,
+                "remoteVisible": "1",
+                "programCluster": "specialCare",
+                "tumblingStatus": "1",
+                "energyLabel": "0",
+                "prPosition": "6",
+                "programFamily": "[hidden|auto]"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "prStr": "Shirts",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "raven",
+                "osVersion": "33",
+                "mobileId": "111111x1x111111x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "cloudProgId": "255",
+                "anionStatus": "0",
+                "prCode": "67",
+                "dryProgFlag": "1",
+                "dryLevel": "14",
+                "tempLevel": "4",
+                "airWashMode": "1",
+                "mitesRemovalStatus": "0",
+                "airwashSprayTime": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": "360",
+                "dryTimeMM": "154",
+                "onOffStatus": "1",
+                "ironRemindStatus": "1",
+                "texture": "14",
+                "delicateStatus": "0",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "pause": "0",
+                "sterilizationStatus": "0",
+                "delayTime": "0",
+                "cloudProgSrc": "2",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx11x1x-1111-1x11-1x1x-1x1x1x1x1111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "suggestedLoadD": 4.5,
+                "remoteVisible": "0",
+                "programCluster": "home",
+                "tumblingStatus": 0,
+                "energyLabel": 2,
+                "program": "iot_dry_bathrobe",
+                "prPosition": "22",
+                "programFamily": "[guided|auto]"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11x11xxxxx111xxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "cloudProgId": "0",
+                "anionStatus": "0",
+                "prCode": "83",
+                "program": "iot_dry_bathrobe",
+                "dryLevel": 12,
+                "tempLevel": 4,
+                "airWashMode": "1",
+                "mitesRemovalStatus": "0",
+                "airwashSprayTime": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": 0,
+                "dryTimeMM": "0",
+                "onOffStatus": "1",
+                "ironRemindStatus": "1",
+                "texture": "36",
+                "delicateStatus": "0",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "pause": "0",
+                "sterilizationStatus": 0,
+                "delayTime": 0,
+                "cloudProgSrc": "2",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx11x1x-1111-1x11-1x1x-1x1x1x1x1111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "programName": "PROGRAMS.TD.HQD_QUICK_DRY",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "suggestedLoadD": 0.9,
+                "remoteVisible": "1",
+                "tumblingStatus": "0",
+                "energyLabel": "0",
+                "prPosition": "38",
+                "programFamily": "[dashboard|auto]"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "prStr": "Quick dry",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "1.53.7",
+                "deviceModel": "raven",
+                "osVersion": "33",
+                "mobileId": "111111x1x111111x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "cloudProgId": "255",
+                "anionStatus": "0",
+                "prCode": "99",
+                "dryProgFlag": "1",
+                "dryLevel": "12",
+                "tempLevel": "4",
+                "airWashMode": "1",
+                "mitesRemovalStatus": "0",
+                "airwashSprayTime": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": "0",
+                "dryTimeMM": "30",
+                "onOffStatus": "1",
+                "ironRemindStatus": "1",
+                "texture": "64",
+                "delicateStatus": "0",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "pause": "0",
+                "sterilizationStatus": "0",
+                "delayTime": "0",
+                "cloudProgSrc": "2",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
