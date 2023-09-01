@@ -1,0 +1,323 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111x1-x1x1-111x-11x1-1x1x111111x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.IOT_DRY_LINGERIE",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "remoteVisible": "1",
+                "suggestedLoadD": "3.5",
+                "programCluster": "delicate",
+                "energyLabel": "0",
+                "programFamily": "[download|guided]",
+                "dryType": "S",
+                "tempContribution": "0"
+            },
+            "applianceType": "WD",
+            "attributes": {
+                "prStr": "Lingerie",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "iPhone13,2",
+                "osVersion": "16.6",
+                "mobileId": "111X11X1-1XX1-1X11-X1X1-11111XX111X1",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "0",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "17",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "14",
+                "dryLevel": "3",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111x1-x1x1-111x-11x1-1x1x111111x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.CARE_30",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "dryOption": "0",
+                "programType": "W+D",
+                "remoteVisible": "1",
+                "energyLabel": "4",
+                "dryType": "S",
+                "suggestedLoadWD": "1.5",
+                "suggestedLoadW": "2",
+                "programCluster": "quick",
+                "liquidDetergentDose": "1",
+                "programFamily": "[dashboard]",
+                "programRules": {
+                    "dryLevel": {
+                        "dryOption": {
+                            "0": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                },
+                "tempContribution": "0"
+            },
+            "applianceType": "WD",
+            "attributes": {
+                "prStr": "Rapid care 30'",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "iPhone13,2",
+                "osVersion": "16.6",
+                "mobileId": "111X11X1-1XX1-1X11-X1X1-11111XX111X1",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "2",
+                "temp": "30",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "10",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "10",
+                "dryLevel": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "800",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111x1-x1x1-111x-11x1-1x1x111111x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_ARIEL_CLEAN_CYCLE",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "dryOption": "0",
+                "programType": "W+D+S",
+                "steamType": "S",
+                "remoteVisible": "1",
+                "energyLabel": "2",
+                "dryType": "S",
+                "suggestedLoadWD": "1.5",
+                "suggestedLoadW": "4",
+                "programCluster": "ariel",
+                "liquidDetergentDose": "4",
+                "programFamily": "[download|featured]",
+                "programRules": {
+                    "dryLevel": {
+                        "dryOption": {
+                            "0": {
+                                "fixedValue": "0",
+                                "typology": "fixed"
+                            }
+                        }
+                    }
+                },
+                "tempContribution": "1"
+            },
+            "applianceType": "WD",
+            "attributes": {
+                "prStr": "Ariel Ultimate Clean",
+                "channel": "mobileApp",
+                "energyLabel": "2",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "iPhone13,2",
+                "osVersion": "16.6",
+                "mobileId": "111X11X1-1XX1-1X11-X1X1-11111XX111X1",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "0",
+                "temp": "30",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "12",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "11",
+                "dryLevel": "1",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1000",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111x1-x1x1-111x-11x1-1x1x111111x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_ARIEL_FRESH_CYCLE",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "dryOption": "0",
+                "programType": "W+D",
+                "remoteVisible": "1",
+                "energyLabel": "4",
+                "dryType": "S",
+                "suggestedLoadWD": "1",
+                "suggestedLoadW": "4",
+                "programCluster": "ariel",
+                "liquidDetergentDose": "4",
+                "programFamily": "[download|featured]",
+                "programRules": "[object Object]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WD",
+            "attributes": {
+                "prStr": "Ariel Fresh Clean",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "lastProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "iPhone13,2",
+                "osVersion": "16.6",
+                "mobileId": "111X11X1-1XX1-1X11-X1X1-11111XX111X1",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "30",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "10",
+                "extraRinse1": "0",
+                "dryLevel": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "800",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
