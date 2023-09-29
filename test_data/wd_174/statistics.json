@@ -1,0 +1,37 @@
+{
+    "resultCode": "0",
+    "programsCounter": 0,
+    "mostUsedPrograms": [],
+    "temperatureUsage": {
+        "temp60to90": 8,
+        "temp40": 143,
+        "temp0to30": 25
+    },
+    "loadingPercentage": [
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 5
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 5
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 5
+        }
+    ]
+}
