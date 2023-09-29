@@ -1,0 +1,260 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx1xxx1-111x-11xx-1x11-11x1x1111111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "haier_SoakPrewashSelection": "haier_SoakPrewashSelection"
+            },
+            "programName": "PROGRAMS.WM_WD.HQD_COTTONS",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "dryOption": "0",
+                "programType": "W+D",
+                "extendedStainType": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "WINE",
+                        "GRASS",
+                        "SOIL",
+                        "BLOOD",
+                        "MILK",
+                        "COOKING_OIL",
+                        "TEA",
+                        "COFFEE",
+                        "CHOCOLATE",
+                        "LIP_GLOSS",
+                        "CURRY",
+                        "MILK_TEA",
+                        "CHILI_OIL",
+                        "BLUE_INK",
+                        "COLOR_PENCIL",
+                        "SHOE_CREAM",
+                        "OIL_PASTEL",
+                        "BLUEBERRY",
+                        "SWEAT",
+                        "EGG",
+                        "KETCHUP",
+                        "BABY_FOOD",
+                        "SOY_SAUCE",
+                        "BEAN_PASTE",
+                        "CHILI_SAUCE",
+                        "FRUIT",
+                        "BUTTER",
+                        "OIL",
+                        "GLUE",
+                        "DEODORANT",
+                        "PERFUME",
+                        "ICE_CREAM",
+                        "MAYONNAISE",
+                        "RUST",
+                        "MECH_GREASE"
+                    ]
+                },
+                "remoteVisible": "1",
+                "suggestedLoadD": "0",
+                "programIntensity": "intensiveWashing",
+                "energyLabel": "0",
+                "prPosition": "7",
+                "dryType": "C",
+                "suggestedLoadWD": 5,
+                "suggestedLoadW": 8,
+                "addWashDefaultTime": "0",
+                "antiWrinkle": "1",
+                "programCluster": "traditional",
+                "powderDetergentDose": "4",
+                "liquidDetergentDose": "4",
+                "programFamily": "[dashboard]",
+                "dryTimeMM": "30",
+                "programRules": {
+                    "typology": "enum",
+                    "category": "rule",
+                    "mandatory": 0,
+                    "enumValues": {
+                        "dryTime": {
+                            "dryTimeMM": {
+                                "0": {
+                                    "fixedValue": "0",
+                                    "typology": "fixed"
+                                },
+                                "30": {
+                                    "fixedValue": "1",
+                                    "typology": "fixed"
+                                },
+                                "60": {
+                                    "fixedValue": "2",
+                                    "typology": "fixed"
+                                },
+                                "90": {
+                                    "fixedValue": "3",
+                                    "typology": "fixed"
+                                },
+                                "120": {
+                                    "fixedValue": "4",
+                                    "typology": "fixed"
+                                },
+                                "150": {
+                                    "fixedValue": "5",
+                                    "typology": "fixed"
+                                },
+                                "180": {
+                                    "fixedValue": "6",
+                                    "typology": "fixed"
+                                },
+                                "210": {
+                                    "fixedValue": "7",
+                                    "typology": "fixed"
+                                }
+                            }
+                        },
+                        "temp": {
+                            "stainType": {
+                                "1": 35,
+                                "10": 45,
+                                "18": 30,
+                                "2|3|19|25": 50,
+                                "4|14|21": 20,
+                                "5|6|7|8|9|12|13|15|16|17|20|22|23|24": 60,
+                                "11|26": 40
+                            }
+                        },
+                        "stainType": {
+                            "extendedStainType": {
+                                "BABY_FOOD": 22,
+                                "COFFEE": 8,
+                                "SHOE_CREAM": 16,
+                                "RUST": 13,
+                                "CHOCOLATE": 9,
+                                "BLUE_INK": 14,
+                                "COLOR_PENCIL": 15,
+                                "KETCHUP": 21,
+                                "MILK_TEA": 12,
+                                "OIL_PASTEL": 17,
+                                "GLUE": 16,
+                                "MECH_GREASE": 14,
+                                "GRASS": 2,
+                                "SOIL": 3,
+                                "COOKING_OIL": 6,
+                                "DEODORANT": 15,
+                                "BLOOD": 4,
+                                "WINE": 1,
+                                "SOY_SAUCE": 23,
+                                "EGG": 20,
+                                "MAYONNAISE": 20,
+                                "BLUEBERRY": 18,
+                                "SWEAT": 19,
+                                "TEA": 7,
+                                "CHILI_OIL": 13,
+                                "PERFUME": 15,
+                                "BEAN_PASTE": 24,
+                                "OIL": 14,
+                                "FRUIT": 26,
+                                "BUTTER": 6,
+                                "CHILI_SAUCE": 25,
+                                "ICE_CREAM": 9,
+                                "MILK": 5,
+                                "LIP_GLOSS": 10,
+                                "CURRY": 11
+                            }
+                        },
+                        "dryLevel": {
+                            "dryOption": {
+                                "0": {
+                                    "fixedValue": "0",
+                                    "typology": "fixed"
+                                }
+                            }
+                        },
+                        "addWashDefaultTime": {
+                            "stainType": {
+                                "0": 0,
+                                "1|2|4|15|16|17|20|21|22": 35,
+                                "5|10|13|14": 25,
+                                "3|6|7|8|9|12|18|23": 5,
+                                "11|19|24|25|26": 20
+                            }
+                        }
+                    }
+                },
+                "tempContribution": "1"
+            },
+            "applianceType": "WD",
+            "attributes": {
+                "prStr": "Baumwolle",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "kalama",
+                "osVersion": "33",
+                "mobileId": "x1x111x11x111111",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "haier_MainWashSpeed": "45",
+                "creaseResistSoakStatus": "0",
+                "haier_SoakPrewashSelection": "0",
+                "prCode": "115",
+                "soakWashStatus": "0",
+                "energySavingStatus": "0",
+                "strongStatus": "0",
+                "haier_MainWashWaterLevel": "2",
+                "spinSpeed": "1400",
+                "rinseIterationTime": "10",
+                "haier_SoakPrewashSpeed": "45",
+                "permanentPressStatus": "0",
+                "nightWashStatus": "0",
+                "intelligenceStatus": "0",
+                "haier_SoakPrewashStopTime": "5",
+                "weight": "5",
+                "highWaterLevelStatus": "0",
+                "voiceStatus": "0",
+                "haier_SoakPrewashTime": "15",
+                "autoDisinfectantStatus": "0",
+                "cloudProgSrc": "2",
+                "haier_SoakPrewashRotateTime": "20",
+                "cloudProgId": "255",
+                "haier_SoakPrewashTemperature": "30",
+                "dryProgFlag": "0",
+                "dryLevel": "0",
+                "haier_RinseRotateTime": "15",
+                "uvSterilizationStatus": "0",
+                "delayStatus": "0",
+                "dryTime": "0",
+                "rinseIterations": "2",
+                "lockStatus": "0",
+                "mainWashTime": "45",
+                "autoSoftenerStatus": "0",
+                "washerDryIntensity": "1",
+                "autoDetergentStatus": "0",
+                "antiAllergyStatus": "0",
+                "speedUpStatus": "0",
+                "haier_MainWashRotateTime": "25",
+                "temp": "60",
+                "detergentBStatus": "0",
+                "ironRemindStatus": "0",
+                "haier_MainWashStopTime": "5",
+                "texture": "1",
+                "steamLevel": "0",
+                "operationName": "grOnlineWash",
+                "haier_RinseSpeed": "45",
+                "haier_ConstantTempStatus": "1",
+                "haier_RinseStopTime": "10",
+                "delayTime": "0",
+                "stainType": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
