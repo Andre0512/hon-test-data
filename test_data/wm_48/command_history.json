@@ -1,0 +1,355 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx1x11x1-11x1-111x-x1x1-1x1x11111xxx#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "2.5",
+                "remoteVisible": "0",
+                "liquidDetergentDose": "2",
+                "energyLabel": 4,
+                "program": "iot_wash_rapid_44",
+                "programFamily": "[guided|voice]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "1xxxx1xx1111111x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": 0,
+                "dirtyLevel": "3",
+                "temp": "20",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "program": "iot_wash_rapid_44",
+                "extraRinse2": 0,
+                "prPosition": "13",
+                "extraRinse1": 0,
+                "extraRinse3": 0,
+                "spinSpeed": "1400",
+                "prStr": "0",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": 0,
+                "lang": 1,
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx1x11x1-11x1-111x-x1x1-1x1x11111xxx#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.CARE_44",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "2.5",
+                "remoteVisible": "1",
+                "programCluster": "quick",
+                "liquidDetergentDose": "2",
+                "energyLabel": "4",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Rapid Care 44'",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "favouriteProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "taro",
+                "osVersion": "33",
+                "mobileId": "1x1111x1x11x1x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "20",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "prPosition": "13",
+                "extraRinse2": "0",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx1x11x1-11x1-111x-x1x1-1x1x11111xxx#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "2.5",
+                "remoteVisible": "1",
+                "programCluster": "quick",
+                "liquidDetergentDose": "2",
+                "energyLabel": "4",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11xx11x1x11xxx11",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "20",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "13",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "prStr": "Rapid Care 44'",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx1x11x1-11x1-111x-x1x1-1x1x11111xxx#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+D",
+                "suggestedLoadW": "2.5",
+                "remoteVisible": "1",
+                "programCluster": "quick",
+                "liquidDetergentDose": "2",
+                "energyLabel": "4",
+                "programFamily": "[dashboard]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11xx11x1x11xxx11",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "0",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "13",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1400",
+                "prStr": "Rapid Care 44'",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx1x11x1-11x1-111x-x1x1-1x1x11111xxx#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_TRAINERS",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W",
+                "suggestedLoadW": "2.5",
+                "remoteVisible": "1",
+                "programCluster": "[quick|sport]",
+                "powderDetergentDose": "2",
+                "liquidDetergentDose": "2",
+                "energyLabel": "4",
+                "programFamily": "[download]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Trainers",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "taro",
+                "osVersion": "33",
+                "mobileId": "1x1111x1x11x1x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "3",
+                "temp": "20",
+                "goodNight": "0",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "11",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "13",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "800",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "autoSoftenerStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

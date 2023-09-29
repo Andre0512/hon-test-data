@@ -1,0 +1,425 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "ecoMode": "0",
+                "programFamily": "[standard]",
+                "remoteVisible": "1"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "1x111111x111x111",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": "0",
+                "healthMode": "0",
+                "tempSel": "22",
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "humiditySel": "30",
+                "pmvStatus": "0",
+                "screenDisplayStatus": "1",
+                "windDirectionVertical": "4",
+                "lightStatus": "0",
+                "energySavingStatus": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "0",
+                "windSpeed": "3",
+                "ch2oCleaningStatus": "0",
+                "electricHeatingStatus": "0",
+                "onOffStatus": "1",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "halfDegreeSettingStatus": "0",
+                "rapidMode": "0",
+                "operationName": "grSetDAC",
+                "silentSleepStatus": "0",
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": "1",
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "programName": "PROGRAMS.AC.IOT_UV_AND_COOL",
+            "ancillaryParameters": {
+                "programFamily": "[health|uv]",
+                "remoteActionable": "1",
+                "remoteVisible": "1"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "prStr": "UV + Kalt",
+                "channel": "mobileApp",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "oriole",
+                "osVersion": "33",
+                "mobileId": "x111x11x11x11xxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": "0",
+                "healthMode": "1",
+                "tempSel": "22",
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "humiditySel": "30",
+                "pmvStatus": "0",
+                "screenDisplayStatus": "1",
+                "windDirectionVertical": "5",
+                "lightStatus": "0",
+                "energySavingStatus": "0",
+                "dryLevel": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "1",
+                "windSpeed": "5",
+                "ch2oCleaningStatus": "1",
+                "electricHeatingStatus": "0",
+                "onOffStatus": "1",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "halfDegreeSettingStatus": "0",
+                "rapidMode": "0",
+                "operationName": "grSetDAC",
+                "silentSleepStatus": "0",
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": "0",
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "programName": "PROGRAMS.AC.IOT_COOL",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "ecoMode": "0",
+                "programFamily": "[standard]",
+                "programRules": "[object Object]",
+                "remoteVisible": "1"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "prStr": "K\u00fchl",
+                "channel": "mobileApp",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.2.4",
+                "deviceModel": "oriole",
+                "osVersion": "33",
+                "mobileId": "x111x11x11x11xxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": "0",
+                "healthMode": "0",
+                "tempSel": "22",
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "humiditySel": "30",
+                "pmvStatus": "0",
+                "screenDisplayStatus": "0",
+                "windDirectionVertical": "2",
+                "lightStatus": "0",
+                "energySavingStatus": "0",
+                "dryLevel": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "0",
+                "windSpeed": "3",
+                "ch2oCleaningStatus": "0",
+                "electricHeatingStatus": "0",
+                "onOffStatus": "1",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "halfDegreeSettingStatus": "0",
+                "rapidMode": "0",
+                "operationName": "grSetDAC",
+                "silentSleepStatus": "1",
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": "1",
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "ecoMode": 0,
+                "program": "iot_cool",
+                "programFamily": "[standard]",
+                "programRules": {
+                    "windSpeed": {
+                        "ecoMode": {
+                            "1": {
+                                "machMode": {
+                                    "1|4": {
+                                        "typology": "enum",
+                                        "defaultValue": "1",
+                                        "enumValues": "1|2|3|5"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "windDirectionVertical": {
+                        "ecoMode": {
+                            "1": {
+                                "machMode": {
+                                    "1|4": {
+                                        "fixedValue": "3",
+                                        "typology": "fixed"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "tempSel": {
+                        "ecoMode": {
+                            "1": {
+                                "machMode": {
+                                    "1": {
+                                        "fixedValue": "26",
+                                        "typology": "fixed"
+                                    },
+                                    "4": {
+                                        "fixedValue": "20",
+                                        "typology": "fixed"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "remoteVisible": "1"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.0.10",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11xx111111x11xxx",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": 0,
+                "healthMode": "0",
+                "tempSel": 22,
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "humiditySel": "30",
+                "pmvStatus": "0",
+                "screenDisplayStatus": 1,
+                "windDirectionVertical": "8",
+                "lightStatus": "0",
+                "program": "iot_cool",
+                "energySavingStatus": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "0",
+                "windSpeed": "5",
+                "ch2oCleaningStatus": "0",
+                "electricHeatingStatus": "0",
+                "onOffStatus": "1",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "halfDegreeSettingStatus": "0",
+                "rapidMode": 0,
+                "operationName": "grSetDAC",
+                "silentSleepStatus": 0,
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": 1,
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "programName": "PROGRAMS.AC.IOT_COOL",
+            "ancillaryParameters": {
+                "remoteActionable": "undefined",
+                "ecoMode": "undefined",
+                "programFamily": "undefined",
+                "programRules": "undefined",
+                "remoteVisible": "undefined"
+            },
+            "applianceType": "AC",
+            "attributes": {
+                "prStr": "K\u00fchl",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "favouriteProgram"
+            },
+            "parameters": {
+                "specialMode": "0",
+                "cleaningTimeStatus": "0",
+                "heatAccumulationStatus": "0",
+                "echoStatus": "0",
+                "healthMode": "0",
+                "tempSel": "22",
+                "humidificationStatus": "0",
+                "tempUnit": "0",
+                "humiditySel": "30",
+                "pmvStatus": "0",
+                "screenDisplayStatus": "1",
+                "windDirectionVertical": "4",
+                "lightStatus": "0",
+                "energySavingStatus": "0",
+                "dryLevel": "0",
+                "lockStatus": "0",
+                "machMode": "1",
+                "windDirectionHorizontal": "0",
+                "freshAirStatus": "0",
+                "pm2p5CleaningStatus": "0",
+                "windSpeed": "3",
+                "ch2oCleaningStatus": "0",
+                "electricHeatingStatus": "0",
+                "onOffStatus": "1",
+                "filterChangeStatusCloud": "0",
+                "energySavePeriod": "15",
+                "intelligenceStatus": "0",
+                "halfDegreeSettingStatus": "0",
+                "rapidMode": "0",
+                "operationName": "grSetDAC",
+                "silentSleepStatus": "0",
+                "voiceSignStatus": "0",
+                "voiceStatus": "0",
+                "muteStatus": "1",
+                "10degreeHeatingStatus": "0",
+                "windSensingStatus": "0",
+                "selfCleaning56Status": "0",
+                "humanSensingStatus": "0",
+                "selfCleaningStatus": "0"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "oriole",
+                "osVersion": "33",
+                "mobileId": "x111x11x11x11xxx",
+                "mobileOs": "android"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

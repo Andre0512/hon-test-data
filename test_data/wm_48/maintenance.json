@@ -1,0 +1,16 @@
+{
+    "resultCode": "0",
+    "filterCleaning": {
+        "tot": 100,
+        "count": 15,
+        "remaining": 85,
+        "percentage": 15
+    },
+    "drumCleaning": {
+        "tot": 100,
+        "count": 15,
+        "remaining": 85,
+        "percentage": 15
+    },
+    "lastCheckup": null
+}

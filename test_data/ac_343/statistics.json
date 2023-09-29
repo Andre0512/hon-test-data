@@ -1,0 +1,16 @@
+{
+    "mostUsedPrograms": [
+        {
+            "count": 12,
+            "programName": "PROGRAMS.AC.IOT_HEAT",
+            "prCode": null
+        },
+        {
+            "count": 1,
+            "programName": "PROGRAMS.AC.IOT_DRY",
+            "prCode": null
+        }
+    ],
+    "mostUsedRecipes": [],
+    "programsCounter": 0
+}

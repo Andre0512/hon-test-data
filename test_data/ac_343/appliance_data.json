@@ -1,0 +1,90 @@
+{
+    "id": 343,
+    "code": "XXXX11X1111",
+    "applianceTypeId": 11,
+    "applianceTypeName": "AC",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "AS25PBAHRA",
+    "series": "pearl",
+    "fwVersion": "5.15.0",
+    "unitConfiguration": "1toN",
+    "lastSelfPurify": "1970-01-01T00:00:00.0Z",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 8851,
+            "parName": "lowerBarrierDate",
+            "parValue": "2001",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8852,
+            "parName": "type",
+            "parValue": "rac",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8853,
+            "parName": "series",
+            "parValue": "pearl",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8855,
+            "parName": "installationType",
+            "parValue": "1to1|1to2|1toN",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 8856,
+            "parName": "interfaceType",
+            "parValue": "type|series|seriesVersion|option|windType|installationType",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 10682,
+            "parName": "windType",
+            "parValue": "vertical",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38014,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61345,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "applianceModelId": 343,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XXXX11X1111X1X1X1111",
+    "nickName": "X\x11xxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 1.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1x1111xx-1111-111x-11x1-1xx111xxx1x1",
+    "SK_Secondary": "XX#xxxxXxxxx11#1111-11-11"
+}

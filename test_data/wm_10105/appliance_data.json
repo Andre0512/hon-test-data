@@ -1,0 +1,159 @@
+{
+    "id": 10105,
+    "code": "XXXXXXX1111",
+    "applianceTypeId": 1,
+    "applianceTypeName": "WM",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HW90G-BD14979UDF",
+    "series": "979",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 36236,
+            "parName": "tumblingType",
+            "parValue": "auto",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36237,
+            "parName": "suggestedLoadWKg",
+            "parValue": "{\"round\":0,\"suggestedLoadW\":{\"RL100\":\"#loadCapacityWash*1\",\"RL95\":\"#loadCapacityWash*0.95\",\"RL90\":\"#loadCapacityWash*0.9\",\"RL85\":\"#loadCapacityWash*0.85\",\"RL80\":\"#loadCapacityWash*0.8\",\"RL75\":\"#loadCapacityWash*0.75\",\"RL70\":\"#loadCapacityWash*0.7\",\"RL65\":\"#loadCapacityWash*0.65\",\"RL60\":\"#loadCapacityWash*0.6\",\"RL55\":\"#loadCapacityWash*0.55\",\"RL50\":\"#loadCapacityWash*0.5\",\"RL45\":\"#loadCapacityWash*0.45\",\"RL40\":\"#loadCapacityWash*0.4\",\"RL35\":\"#loadCapacityWash*0.35\",\"RL30\":\"#loadCapacityWash*0.3\",\"RL25\":\"#loadCapacityWash*0.25\",\"RL20\":\"#loadCapacityWash*0.2\",\"RL15\":\"#loadCapacityWash*0.15\",\"RL10\":\"#loadCapacityWash*0.1\",\"RL5\":\"#loadCapacityWash*0.05\"}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36238,
+            "parName": "series",
+            "parValue": "979",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36239,
+            "parName": "rpm",
+            "parValue": "1400",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36240,
+            "parName": "remainingTimeRinse",
+            "parValue": "{\"rinseIterations\":{\"0\":0,\"default\":{\"spinSpeed\":{\"0\":\"(rinseIterationTime+2)*(rinseIterations-1)+rinseIterationTime\",\"default\":{\"prCode\":{\"72\":{\"400\":\"(rinseIterationTime+3)*(rinseIterations-1)+rinseIterationTime\",\"600\":\"(rinseIterationTime+3)*(rinseIterations-1)+rinseIterationTime\",\"800\":\"(rinseIterationTime+3)*(rinseIterations-1)+rinseIterationTime\",\"1000\":\"(rinseIterationTime+3)*(rinseIterations-1)+rinseIterationTime\",\"1200\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\",\"1400\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\"},\"default\":{\"400\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\",\"600\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\",\"800\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\",\"1000\":\"(rinseIterationTime+5)*(rinseIterations-1)+rinseIterationTime\",\"1200\":\"(rinseIterationTime+7)*(rinseIterations-1)+rinseIterationTime\",\"1400\":\"(rinseIterationTime+7)*(rinseIterations-1)+rinseIterationTime\"}}}}}}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36241,
+            "parName": "remainingTimePrewash",
+            "parValue": "{\"haier_SoakPrewashSelection\":{\"0\":0,\"default\":\"#finalSpinDuration+17\"}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36242,
+            "parName": "remainingTimeMainWash",
+            "parValue": "{\"mainWashTime\":{\"0\":0,\"default\":{\"suggestedLoadW\":{\"undefined\":{\"prCode\":{\"85\":\"mainWashTime+2\",\"90\":\"mainWashTime+2\",\"106\":\"mainWashTime+#finalSpinDuration+5\",\"132\":\"mainWashTime+2\",\"default\":\"mainWashTime+#finalSpinDuration+2\"}},\"default\":{\"#suggestedLoadWKg\":{\"1\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+27\",\"90\":\"mainWashTime+27\",\"106\":\"mainWashTime+#finalSpinDuration+30\",\"132\":\"mainWashTime+27\",\"default\":\"mainWashTime+#finalSpinDuration+27\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+42\",\"90\":\"mainWashTime+42\",\"106\":\"mainWashTime+#finalSpinDuration+45\",\"132\":\"mainWashTime+42\",\"default\":\"mainWashTime+#finalSpinDuration+42\"}}}},\"2\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+27\",\"90\":\"mainWashTime+27\",\"106\":\"mainWashTime+#finalSpinDuration+30\",\"132\":\"mainWashTime+27\",\"default\":\"mainWashTime+#finalSpinDuration+27\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}}}},\"3\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}}}},\"4\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+7\",\"90\":\"mainWashTime+7\",\"106\":\"mainWashTime+#finalSpinDuration+10\",\"132\":\"mainWashTime+7\",\"default\":\"mainWashTime+#finalSpinDuration+7\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+27\",\"90\":\"mainWashTime+27\",\"106\":\"mainWashTime+#finalSpinDuration+30\",\"132\":\"mainWashTime+27\",\"default\":\"mainWashTime+#finalSpinDuration+27\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+42\",\"90\":\"mainWashTime+42\",\"106\":\"mainWashTime+#finalSpinDuration+45\",\"132\":\"mainWashTime+42\",\"default\":\"mainWashTime+#finalSpinDuration+42\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+67\",\"90\":\"mainWashTime+67\",\"106\":\"mainWashTime+#finalSpinDuration+70\",\"132\":\"mainWashTime+67\",\"default\":\"mainWashTime+#finalSpinDuration+67\"}}}},\"5\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+67\",\"90\":\"mainWashTime+67\",\"106\":\"mainWashTime+#finalSpinDuration+70\",\"132\":\"mainWashTime+67\",\"default\":\"mainWashTime+#finalSpinDuration+67\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+77\",\"90\":\"mainWashTime+77\",\"106\":\"mainWashTime+#finalSpinDuration+80\",\"132\":\"mainWashTime+77\",\"default\":\"mainWashTime+#finalSpinDuration+77\"}}}},\"6\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+42\",\"90\":\"mainWashTime+42\",\"106\":\"mainWashTime+#finalSpinDuration+45\",\"132\":\"mainWashTime+42\",\"default\":\"mainWashTime+#finalSpinDuration+42\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+62\",\"90\":\"mainWashTime+62\",\"106\":\"mainWashTime+#finalSpinDuration+65\",\"132\":\"mainWashTime+62\",\"default\":\"mainWashTime+#finalSpinDuration+62\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+72\",\"90\":\"mainWashTime+72\",\"106\":\"mainWashTime+#finalSpinDuration+75\",\"132\":\"mainWashTime+72\",\"default\":\"mainWashTime+#finalSpinDuration+72\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+82\",\"90\":\"mainWashTime+82\",\"106\":\"mainWashTime+#finalSpinDuration+85\",\"132\":\"mainWashTime+82\",\"default\":\"mainWashTime+#finalSpinDuration+82\"}}}},\"7\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+22\",\"90\":\"mainWashTime+22\",\"106\":\"mainWashTime+#finalSpinDuration+25\",\"132\":\"mainWashTime+22\",\"default\":\"mainWashTime+#finalSpinDuration+22\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+67\",\"90\":\"mainWashTime+67\",\"106\":\"mainWashTime+#finalSpinDuration+70\",\"132\":\"mainWashTime+67\",\"default\":\"mainWashTime+#finalSpinDuration+67\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+82\",\"90\":\"mainWashTime+82\",\"106\":\"mainWashTime+#finalSpinDuration+85\",\"132\":\"mainWashTime+82\",\"default\":\"mainWashTime+#finalSpinDuration+82\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+92\",\"90\":\"mainWashTime+92\",\"106\":\"mainWashTime+#finalSpinDuration+95\",\"132\":\"mainWashTime+92\",\"default\":\"mainWashTime+#finalSpinDuration+92\"}}}},\"8\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+27\",\"90\":\"mainWashTime+27\",\"106\":\"mainWashTime+#finalSpinDuration+30\",\"132\":\"mainWashTime+27\",\"default\":\"mainWashTime+#finalSpinDuration+27\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+62\",\"90\":\"mainWashTime+62\",\"106\":\"mainWashTime+#finalSpinDuration+65\",\"132\":\"mainWashTime+62\",\"default\":\"mainWashTime+#finalSpinDuration+62\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+77\",\"90\":\"mainWashTime+77\",\"106\":\"mainWashTime+#finalSpinDuration+80\",\"132\":\"mainWashTime+77\",\"default\":\"mainWashTime+#finalSpinDuration+77\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+87\",\"90\":\"mainWashTime+87\",\"106\":\"mainWashTime+#finalSpinDuration+90\",\"132\":\"mainWashTime+87\",\"default\":\"mainWashTime+#finalSpinDuration+87\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+102\",\"90\":\"mainWashTime+102\",\"106\":\"mainWashTime+#finalSpinDuration+105\",\"132\":\"mainWashTime+102\",\"default\":\"mainWashTime+#finalSpinDuration+102\"}}}},\"9\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+27\",\"90\":\"mainWashTime+27\",\"106\":\"mainWashTime+#finalSpinDuration+30\",\"132\":\"mainWashTime+27\",\"default\":\"mainWashTime+#finalSpinDuration+27\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+42\",\"90\":\"mainWashTime+42\",\"106\":\"mainWashTime+#finalSpinDuration+45\",\"132\":\"mainWashTime+42\",\"default\":\"mainWashTime+#finalSpinDuration+42\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+67\",\"90\":\"mainWashTime+67\",\"106\":\"mainWashTime+#finalSpinDuration+70\",\"132\":\"mainWashTime+67\",\"default\":\"mainWashTime+#finalSpinDuration+67\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+82\",\"90\":\"mainWashTime+82\",\"106\":\"mainWashTime+#finalSpinDuration+85\",\"132\":\"mainWashTime+82\",\"default\":\"mainWashTime+#finalSpinDuration+82\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+2+95\",\"90\":\"mainWashTime+2+95\",\"106\":\"mainWashTime+#finalSpinDuration+5+95\",\"132\":\"mainWashTime+2+95\",\"default\":\"mainWashTime+#finalSpinDuration+2+95\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+107\",\"90\":\"mainWashTime+107\",\"106\":\"mainWashTime+#finalSpinDuration+110\",\"132\":\"mainWashTime+107\",\"default\":\"mainWashTime+#finalSpinDuration+107\"}}}},\"10\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+57\",\"90\":\"mainWashTime+57\",\"106\":\"mainWashTime+#finalSpinDuration+60\",\"132\":\"mainWashTime+57\",\"default\":\"mainWashTime+#finalSpinDuration+57\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+72\",\"90\":\"mainWashTime+72\",\"106\":\"mainWashTime+#finalSpinDuration+75\",\"132\":\"mainWashTime+72\",\"default\":\"mainWashTime+#finalSpinDuration+72\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+87\",\"90\":\"mainWashTime+87\",\"106\":\"mainWashTime+#finalSpinDuration+90\",\"132\":\"mainWashTime+87\",\"default\":\"mainWashTime+#finalSpinDuration+87\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+102\",\"90\":\"mainWashTime+102\",\"106\":\"mainWashTime+#finalSpinDuration+105\",\"132\":\"mainWashTime+102\",\"default\":\"mainWashTime+#finalSpinDuration+102\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+117\",\"90\":\"mainWashTime+117\",\"106\":\"mainWashTime+#finalSpinDuration+120\",\"132\":\"mainWashTime+117\",\"default\":\"mainWashTime+#finalSpinDuration+117\"}}}},\"11\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+32\",\"90\":\"mainWashTime+32\",\"106\":\"mainWashTime+#finalSpinDuration+35\",\"132\":\"mainWashTime+32\",\"default\":\"mainWashTime+#finalSpinDuration+32\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+47\",\"90\":\"mainWashTime+47\",\"106\":\"mainWashTime+#finalSpinDuration+50\",\"132\":\"mainWashTime+47\",\"default\":\"mainWashTime+#finalSpinDuration+47\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+62\",\"90\":\"mainWashTime+62\",\"106\":\"mainWashTime+#finalSpinDuration+65\",\"132\":\"mainWashTime+62\",\"default\":\"mainWashTime+#finalSpinDuration+62\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+77\",\"90\":\"mainWashTime+77\",\"106\":\"mainWashTime+#finalSpinDuration+80\",\"132\":\"mainWashTime+77\",\"default\":\"mainWashTime+#finalSpinDuration+77\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+92\",\"90\":\"mainWashTime+92\",\"106\":\"mainWashTime+#finalSpinDuration+95\",\"132\":\"mainWashTime+92\",\"default\":\"mainWashTime+#finalSpinDuration+92\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+107\",\"90\":\"mainWashTime+107\",\"106\":\"mainWashTime+#finalSpinDuration+110\",\"132\":\"mainWashTime+107\",\"default\":\"mainWashTime+#finalSpinDuration+107\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+127\",\"90\":\"mainWashTime+127\",\"106\":\"mainWashTime+#finalSpinDuration+130\",\"132\":\"mainWashTime+127\",\"default\":\"mainWashTime+#finalSpinDuration+127\"}}}},\"12\":{\"temp\":{\"0\":{\"prCode\":{\"85\":\"mainWashTime+12\",\"90\":\"mainWashTime+12\",\"106\":\"mainWashTime+#finalSpinDuration+15\",\"132\":\"mainWashTime+12\",\"default\":\"mainWashTime+#finalSpinDuration+12\"}},\"20\":{\"prCode\":{\"85\":\"mainWashTime+17\",\"90\":\"mainWashTime+17\",\"106\":\"mainWashTime+#finalSpinDuration+20\",\"132\":\"mainWashTime+17\",\"default\":\"mainWashTime+#finalSpinDuration+17\"}},\"30\":{\"prCode\":{\"85\":\"mainWashTime+37\",\"90\":\"mainWashTime+37\",\"106\":\"mainWashTime+#finalSpinDuration+40\",\"132\":\"mainWashTime+37\",\"default\":\"mainWashTime+#finalSpinDuration+37\"}},\"40\":{\"prCode\":{\"85\":\"mainWashTime+52\",\"90\":\"mainWashTime+52\",\"106\":\"mainWashTime+#finalSpinDuration+55\",\"132\":\"mainWashTime+52\",\"default\":\"mainWashTime+#finalSpinDuration+52\"}},\"50\":{\"prCode\":{\"85\":\"mainWashTime+67\",\"90\":\"mainWashTime+67\",\"106\":\"mainWashTime+#finalSpinDuration+70\",\"132\":\"mainWashTime+67\",\"default\":\"mainWashTime+#finalSpinDuration+67\"}},\"60\":{\"prCode\":{\"85\":\"mainWashTime+82\",\"90\":\"mainWashTime+82\",\"106\":\"mainWashTime+#finalSpinDuration+85\",\"132\":\"mainWashTime+82\",\"default\":\"mainWashTime+#finalSpinDuration+82\"}},\"70\":{\"prCode\":{\"85\":\"mainWashTime+102\",\"90\":\"mainWashTime+102\",\"106\":\"mainWashTime+#finalSpinDuration+105\",\"132\":\"mainWashTime+102\",\"default\":\"mainWashTime+#finalSpinDuration+102\"}},\"80\":{\"prCode\":{\"85\":\"mainWashTime+117\",\"90\":\"mainWashTime+117\",\"106\":\"mainWashTime+#finalSpinDuration+120\",\"132\":\"mainWashTime+117\",\"default\":\"mainWashTime+#finalSpinDuration+117\"}},\"90\":{\"prCode\":{\"85\":\"mainWashTime+132\",\"90\":\"mainWashTime+132\",\"106\":\"mainWashTime+#finalSpinDuration+135\",\"132\":\"mainWashTime+132\",\"default\":\"mainWashTime+#finalSpinDuration+132\"}}}}}}}}}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36243,
+            "parName": "remainingTimeFinalSpin",
+            "parValue": "{\"#finalSpinDuration\":{\"0\":0,\"default\":\"#finalSpinDuration+2\"}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36244,
+            "parName": "remainingTimeAntiWrinkle",
+            "parValue": "{\"antiWrinkle\":{\"0\":0,\"default\":1}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36245,
+            "parName": "remainingTime",
+            "parValue": "remainingTimePrewash+remainingTimeMainWash+remainingTimeRinse+remainingTimeFinalSpin+remainingTimeAntiWrinkle",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36246,
+            "parName": "platform",
+            "parValue": "HQD",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36247,
+            "parName": "option",
+            "parValue": "steam|tumbling|autodose",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36248,
+            "parName": "lowerBarrierDate",
+            "parValue": "2229",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36249,
+            "parName": "loadCapacityWash",
+            "parValue": "9",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36250,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|loadCapacityWash|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36251,
+            "parName": "finalSpinDuration",
+            "parValue": "{\"spinSpeed\":{\"0\":0,\"default\":{\"prCode\":{\"72\":1,\"default\":3}}}}",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 39767,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61950,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 10105,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XXXXXXX1111XXX111111",
+    "nickName": "Xxxxxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 1.111111111111111,
+        "lat": 11.111111111111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1x1xx111-xx11-11x1-1111-x1x1111x1111"
+}

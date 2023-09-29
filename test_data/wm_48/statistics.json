@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 17,
+    "mostUsedPrograms": [
+        {
+            "count": 10,
+            "programType": "W+D",
+            "prCode": "11",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WM_WD.CARE_44"
+        },
+        {
+            "count": 1,
+            "programType": "W",
+            "prCode": "11",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_TRAINERS"
+        },
+        {
+            "count": 1,
+            "programType": "W+D",
+            "prCode": "11",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WD.undefined"
+        },
+        {
+            "count": 1,
+            "programType": "W+D",
+            "prCode": "9",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WM_WD.CARE_14"
+        },
+        {
+            "count": 1,
+            "programType": "W+D",
+            "prCode": "11",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WD.CARE_44"
+        }
+    ],
+    "temperatureUsage": {
+        "temp40": 0,
+        "temp60to90": 0,
+        "temp0to30": 15
+    },
+    "loadingPercentage": [
+        {
+            "max": 3,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3
+        },
+        {
+            "max": 2.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2.5
+        },
+        {
+            "max": 2.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2.5
+        },
+        {
+            "max": 2.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2.5
+        },
+        {
+            "max": 2.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2.5
+        }
+    ]
+}
