@@ -1,0 +1,120 @@
+{
+    "resultCode": "0",
+    "shadow": {
+        "parameters": {
+            "quickModeZ1": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "quickModeZ2": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "debugEnabled": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "stdTransRate": {
+                "parNewVal": "3600",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "doorStatusZ1": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "doorStatusZ2": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "intelligenceMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "highTransRate": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "statusSyncRate": {
+                "parNewVal": "1440",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempSelZ2": {
+                "parNewVal": "-19",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "holidayMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempSelZ1": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "transMode": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempZ1": {
+                "parNewVal": "-38",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errors": {
+                "parNewVal": "00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempZ2": {
+                "parNewVal": "-38",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "humidityEnv": {
+                "parNewVal": "60",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempEnv": {
+                "parNewVal": "23",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        }
+    },
+    "activity": {},
+    "commandHistory": {
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "ancillaryParameters": {
+                "nameVariants": "series",
+                "remoteActionable": "1",
+                "programFamily": "[dashboard]",
+                "zone": "[fridge|freezer]",
+                "remoteVisible": "1"
+            },
+            "applianceType": "REF",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram",
+                "energyLabel": "0"
+            },
+            "device": {
+                "appVersion": "2.1.2",
+                "deviceModel": "exynos9820",
+                "osVersion": 31,
+                "mobileId": "11x11xx11111x111",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "intelligenceMode": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z"
+    },
+    "lastConnEvent": {
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "category": "CONNECTED",
+        "instantTime": "1970-01-01T00:00:00.0Z",
+        "timestampEvent": 1696091423107
+    }
+}

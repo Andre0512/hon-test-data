@@ -1,0 +1,138 @@
+{
+    "id": 10188,
+    "code": "XX11X1X1111",
+    "applianceTypeId": 14,
+    "applianceTypeName": "REF",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HSW59F18EIPT",
+    "series": "multidoor",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 55848,
+            "parName": "zones",
+            "parValue": "fridge|freezer",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55849,
+            "parName": "vtZone",
+            "parValue": "0",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55850,
+            "parName": "technology",
+            "parValue": "st",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55851,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55852,
+            "parName": "seriesVersion",
+            "parValue": "sd60Series1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55853,
+            "parName": "series",
+            "parValue": "multidoor",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55854,
+            "parName": "sensor",
+            "parValue": "doorAlarmFridge|doorAlarmFreezer",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55855,
+            "parName": "option",
+            "parValue": "autoSet|superCool|superFreeze|holiday",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55856,
+            "parName": "lowerBarrierDate",
+            "parValue": "2235",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55857,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|doorNumber",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55858,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55859,
+            "parName": "enrollmentType",
+            "parValue": "app",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 55860,
+            "parName": "doorNumber",
+            "parValue": "2",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61437,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 79266,
+            "parName": "plmCode",
+            "parValue": "34005274",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 10188,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XX11X1X1111XXX1X1111",
+    "nickName": "Xxxx11x1xxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1111x111-xx1x-1111-x1x1-11x11111x1x1"
+}
