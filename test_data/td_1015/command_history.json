@@ -1,0 +1,75 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1x1xx111-xx11-11x1-1111-x1x1111x1111#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "anticrease",
+                "opt2": "dryingManager",
+                "opt3": "bestIroning",
+                "opt4": "hybrid"
+            },
+            "programName": "PROGRAMS.TD.HQD_BATH_TOWEL",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "D",
+                "remoteVisible": "1",
+                "suggestedLoadD": 4.5,
+                "programCluster": "home",
+                "tumblingStatus": "0",
+                "energyLabel": "0",
+                "programFamily": "[hidden|auto]",
+                "prPosition": "22"
+            },
+            "applianceType": "TD",
+            "attributes": {
+                "prStr": "Handdoeken",
+                "channel": "mobileApp",
+                "energyLabel": "0",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.4.7",
+                "deviceModel": "iPhone11,2",
+                "osVersion": "17.1.1",
+                "mobileId": "11X1X1XX-1X11-111X-111X-1X111X1X11X1",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "fastDryStatus": "0",
+                "programClass": "1",
+                "cloudProgId": "255",
+                "anionStatus": "0",
+                "prCode": "83",
+                "dryProgFlag": "1",
+                "dryLevel": "14",
+                "tempLevel": "4",
+                "airWashMode": "1",
+                "airwashSprayTime": "0",
+                "mitesRemovalStatus": "0",
+                "lockStatus": "0",
+                "antiCreaseTime": "0",
+                "dryTimeMM": "176",
+                "onOffStatus": "1",
+                "ironRemindStatus": "1",
+                "texture": "36",
+                "delicateStatus": "0",
+                "operationName": "grDryCloudProg",
+                "dryMode": "1",
+                "pause": "0",
+                "sterilizationStatus": "0",
+                "delayTime": "0",
+                "cloudProgSrc": "2",
+                "buzzerDisabled": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
