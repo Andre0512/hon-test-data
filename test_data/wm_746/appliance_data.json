@@ -1,0 +1,175 @@
+{
+    "id": 746,
+    "code": "11111111",
+    "applianceTypeId": 1,
+    "applianceTypeName": "WM",
+    "brand": "candy",
+    "connectivity": "wifi|ble",
+    "modelName": "RP 696BWMRR/1-S",
+    "series": "rapidoPro",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.14.0",
+    "waterHard": "2",
+    "autoSoftenerStatus": false,
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 14366,
+            "parName": "lowerBarrierDate",
+            "parValue": "2101",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14367,
+            "parName": "loadCapacityWash",
+            "parValue": "9",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14368,
+            "parName": "series",
+            "parValue": "rapidoPro",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14369,
+            "parName": "option",
+            "parValue": "tumbling|steam",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14370,
+            "parName": "rpm",
+            "parValue": "1600",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14371,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|loadCapacityWash|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14372,
+            "parName": "opt1",
+            "parValue": "opt2|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14373,
+            "parName": "opt2",
+            "parValue": "opt1|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14374,
+            "parName": "opt3",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14375,
+            "parName": "opt4",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14376,
+            "parName": "opt5",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14377,
+            "parName": "opt6",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14378,
+            "parName": "opt7",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14379,
+            "parName": "opt8",
+            "parValue": "opt1|opt2|opt3|opt4|opt5|opt6|opt7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14380,
+            "parName": "supportedLanguage",
+            "parValue": "en|it|fr|nl|pt|es|de|bg|cs|sk|hr|el|pl|sr|sl|ro|ru|uk|hu|da|fi|no|sv|tr",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 14381,
+            "parName": "tumblingType",
+            "parValue": "manual",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19602,
+            "parName": "platform",
+            "parValue": "CHG",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 38382,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 62538,
+            "parName": "fwLabel",
+            "parValue": "iotfw_wmwd",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 80621,
+            "parName": "drawerType",
+            "parValue": "flChg",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 746,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "autoDetergentStatus": false,
+    "eepromName": "70022211",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 7410,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:xx1xx111-x111-1x1x-x1x1-1x1xxx111xx1"
+}

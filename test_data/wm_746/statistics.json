@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 50,
+    "mostUsedPrograms": [
+        {
+            "count": 16,
+            "programType": "W+D",
+            "prCode": "2",
+            "prPosition": "9",
+            "programName": "PROGRAMS.WM_WD.DRAIN_SPIN"
+        },
+        {
+            "count": 6,
+            "programType": "WS",
+            "prCode": "12",
+            "prPosition": "2",
+            "programName": "PROGRAMS.WM_WD.IOT_MIX_AND_COLOUR_59_STEAM"
+        },
+        {
+            "count": 5,
+            "programType": "W+D+S",
+            "prCode": "12",
+            "prPosition": "2",
+            "programName": "PROGRAMS.WM_WD.MIX_AND_COLOUR_59"
+        },
+        {
+            "count": 5,
+            "programType": "W+D+S",
+            "prCode": "12",
+            "prPosition": "2",
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_COLOURED_SHIRTS"
+        },
+        {
+            "count": 5,
+            "programType": "W+D+S",
+            "prCode": "4",
+            "prPosition": "11",
+            "programName": "PROGRAMS.WM_WD.SYNTHETIC_AND_COLOURED"
+        }
+    ],
+    "temperatureUsage": {
+        "temp0to30": 25,
+        "temp60to90": 2,
+        "temp40": 9
+    },
+    "loadingPercentage": [
+        {
+            "max": 9,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 9
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 9,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 1.26
+        },
+        {
+            "max": 9,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 1.26
+        }
+    ]
+}
