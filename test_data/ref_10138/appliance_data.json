@@ -1,0 +1,138 @@
+{
+    "id": 10138,
+    "code": "XX1X1XX1111",
+    "applianceTypeId": 14,
+    "applianceTypeName": "REF",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "HTW5620DNMG",
+    "series": "romania",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 37140,
+            "parName": "zones",
+            "parValue": "fridge|freezer|vtRoom1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37156,
+            "parName": "vtZone",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37172,
+            "parName": "technology",
+            "parValue": "st",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37188,
+            "parName": "seriesVersion",
+            "parValue": "3d60Series7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37204,
+            "parName": "series",
+            "parValue": "romania",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37220,
+            "parName": "sensor",
+            "parValue": "doorAlarmFridge",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37236,
+            "parName": "option",
+            "parValue": "ecoMode|superCool|superFreeze|holiday",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37252,
+            "parName": "lowerBarrierDate",
+            "parValue": "2210",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37268,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|doorNumber",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37284,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37300,
+            "parName": "enrollmentType",
+            "parValue": "app",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37316,
+            "parName": "doorNumber",
+            "parValue": "3",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 39800,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61452,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 79298,
+            "parName": "plmCode",
+            "parValue": "34005437",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 10138,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "XX1X1XX1111XXX1X1111",
+    "nickName": "Xx11xxxxxxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 1.111111111111111,
+        "lat": 11.11111111111111
+    },
+    "PK": "xxxx#xx-xxxx-1:1x1111x1-111x-1xx1-111x-x11111111111"
+}
