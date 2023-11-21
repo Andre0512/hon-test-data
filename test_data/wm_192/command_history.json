@@ -1,0 +1,71 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:1xx11111-1xx1-111x-x1x1-x11x1xx1x1x1#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt7": "extraRinse3",
+                "opt8": "acquaplus",
+                "opt3": "anticrease",
+                "opt4": "goodNight",
+                "opt5": "extraRinse1",
+                "opt6": "extraRinse2",
+                "opt1": "prewash",
+                "opt2": "hygiene"
+            },
+            "programName": "PROGRAMS.WM_WD.ACTIVE_WASH",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programType": "W+S",
+                "steamType": "S",
+                "suggestedLoadW": "2",
+                "remoteVisible": "1",
+                "liquidDetergentDose": "1",
+                "energyLabel": "4",
+                "programFamily": "[hidden]",
+                "tempContribution": "0"
+            },
+            "applianceType": "WM",
+            "attributes": {
+                "prStr": "Active Wash",
+                "channel": "mobileApp",
+                "energyLabel": "4",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "1.15.1",
+                "deviceModel": "iPhone8,1",
+                "osVersion": "14.4",
+                "mobileId": "XXX111X1-XX11-1X1X-X1XX-X1X1X11X1X11",
+                "mobileOs": "ios"
+            },
+            "parameters": {
+                "acquaplus": "0",
+                "dirtyLevel": "0",
+                "temp": "30",
+                "steamLevel": "0",
+                "anticrease": "0",
+                "prCode": "49",
+                "prewash": "0",
+                "extraRinse2": "0",
+                "prPosition": "16",
+                "extraRinse1": "0",
+                "extraRinse3": "0",
+                "spinSpeed": "1000",
+                "hygiene": "0",
+                "checkUpStatus": "0",
+                "delayTime": "0",
+                "lang": "1",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

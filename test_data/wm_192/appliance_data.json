@@ -1,0 +1,176 @@
+{
+    "id": 192,
+    "code": "11111111",
+    "applianceTypeId": 1,
+    "applianceTypeName": "WM",
+    "brand": "hoover",
+    "connectivity": "wifi|ble",
+    "modelName": "HW 48AMC/1-S",
+    "series": "h-wash500",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.12.0",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "attributes": [
+        {
+            "id": 6231,
+            "parName": "lowerBarrierDate",
+            "parValue": "1945",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6232,
+            "parName": "series",
+            "parValue": "h-wash500",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6233,
+            "parName": "seriesVersion",
+            "parValue": "essential",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6234,
+            "parName": "option",
+            "parValue": "steam|tumbling",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6235,
+            "parName": "loadCapacityWash",
+            "parValue": "8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6236,
+            "parName": "supportedLanguage",
+            "parValue": "en|it|fr|nl|pt|es|de|bg|cs|sk|hr|el|pl|sr|sl|ro|ru|uk|hu|da|fi|no|sv|tr",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6237,
+            "parName": "rpm",
+            "parValue": "1400",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6238,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|loadCapacityWash|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6239,
+            "parName": "opt1",
+            "parValue": "opt2|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6240,
+            "parName": "opt2",
+            "parValue": "opt1|opt3|opt4|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6241,
+            "parName": "opt3",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6242,
+            "parName": "opt4",
+            "parValue": "opt1|opt2|opt5|opt6|opt7|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6243,
+            "parName": "opt5",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6244,
+            "parName": "opt6",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6245,
+            "parName": "opt7",
+            "parValue": "opt1|opt2|opt3|opt4|opt8",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 6246,
+            "parName": "opt8",
+            "parValue": "opt1|opt2|opt3|opt4|opt5|opt6|opt7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 13659,
+            "parName": "tumblingType",
+            "parValue": "manual",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19396,
+            "parName": "platform",
+            "parValue": "CHG",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37867,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 62599,
+            "parName": "fwLabel",
+            "parValue": "iotfw_wmwd",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 80580,
+            "parName": "drawerType",
+            "parValue": "flChg",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "applianceModelId": 192,
+    "eepromId": 10,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.111111111111111,
+        "lat": 11.11111111111111
+    },
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "43033677",
+    "PK": "xxxx#xx-xxxx-1:1xx11111-1xx1-111x-x1x1-x11x1xx1x1x1",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111"
+}

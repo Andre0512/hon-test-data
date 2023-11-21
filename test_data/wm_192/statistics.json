@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 3493,
+    "mostUsedPrograms": [
+        {
+            "count": 1787,
+            "programType": "W+S",
+            "prCode": "12",
+            "prPosition": "14",
+            "programName": "PROGRAMS.WD.ALL_IN_ONE_59"
+        },
+        {
+            "count": 870,
+            "programType": "W+D+S",
+            "prCode": "4",
+            "prPosition": "6",
+            "programName": "PROGRAMS.WM_WD.SYNTHETIC_AND_COLOURED"
+        },
+        {
+            "count": 477,
+            "programType": "W+D",
+            "prCode": "7",
+            "prPosition": "4",
+            "programName": "PROGRAMS.WD.HANDWASH_WOOL"
+        },
+        {
+            "count": 263,
+            "programType": "W+D",
+            "prCode": "42",
+            "prPosition": "3",
+            "programName": "PROGRAMS.WM_WD.ECO_40_60_NEW_ENERGY_LABEL"
+        },
+        {
+            "count": 45,
+            "programType": "W+D+S",
+            "prCode": "12",
+            "prPosition": "14",
+            "programName": "PROGRAMS.WM_WD.ALL_IN_ONE_59"
+        }
+    ],
+    "temperatureUsage": {
+        "temp40": 48.55507868383405,
+        "temp0to30": 44.43490701001431,
+        "temp60to90": 7.0100143061516444
+    },
+    "loadingPercentage": [
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 1.12
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        }
+    ]
+}
