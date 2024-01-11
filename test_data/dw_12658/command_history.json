@@ -1,0 +1,449 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.HYGIENE",
+            "ancillaryParameters": {
+                "ecoIndex": "1",
+                "remoteActionable": "1",
+                "temp": "75",
+                "programType": "WD",
+                "energyConsumption": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"tabStatus\":\"0\",\"opt2\":\"1.75\",\"opt3\":\"0\",\"opt4\":\"1.97\",\"opt5\":\"1.49\",\"opt7\":\"0\",\"opt8\":\"1.98\",\"opt4\":{\"opt5\":\"1.65\"},\"opt5\":{\"opt4\":\"1.65\"},\"opt2\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt2\":\"0\"},\"opt8\":{\"tabStatus\":{\"opt2\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt2\":{\"opt8\":\"0\"},\"opt8\":{\"opt2\":\"0\"}},\"opt2\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt5\":\"0\"},\"opt3\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"}},\"opt7\":{\"opt3\":\"0\"},\"opt3\":{\"opt7\":\"0\"},\"opt3\":{\"opt4\":\"0\"},\"opt4\":{\"opt3\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt8\":\"0\"},\"opt2\":{\"opt5\":\"1.49\"},\"opt5\":{\"opt2\":\"1.49\"},\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"},\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"},\"opt7\":{\"opt8\":\"0\"},\"opt8\":{\"opt7\":\"0\"},\"opt7\":{\"opt4\":\"0\"},\"opt4\":{\"opt7\":\"0\"},\"opt5\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt5\":{\"opt8\":\"0\"},\"opt8\":{\"opt5\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"}},\"opt3\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt7\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"}},\"default\":\"1.97\"}"
+                    ]
+                },
+                "waterSaving": "56",
+                "suggestedLoadD": "RL100",
+                "remoteVisible": "1",
+                "energyLabel": "1",
+                "ecoIndexOpts": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"opt2\":{\"opt5\":\"1.5\",\"tabStatus\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt8\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"default\":\"1.5\"},\"opt3\":{\"opt4\":\"1\",\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"opt4\":{\"opt8\":\"1\",\"opt5\":\"1\",\"opt7\":\"1\",\"opt3\":\"1\",\"default\":\"0.5\"},\"opt5\":{\"opt4\":\"1\",\"opt2\":\"1.5\",\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"tabStatus\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"default\":\"1.5\"},\"opt7\":{\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt3\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt2\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"3\",\"opt2\":\"1.5\",\"opt3\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"tabStatus\":{\"opt2\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt5\":\"3\",\"opt3\":\"1\",\"opt2\":\"1.5\",\"default\":\"1\"},\"default\":\"1\"}}"
+                    ]
+                },
+                "remainingTime": "141",
+                "waterEfficiency": "1",
+                "functionalId": "13",
+                "programCluster": "traditional",
+                "programFamily": "[hidden|guided|snap]",
+                "waterConsumption": "13",
+                "ecoDelayStart": "0"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Higiene",
+                "channel": "mobileApp",
+                "energyLabel": "1",
+                "origin": "lastProgram"
+            },
+            "device": {
+                "appVersion": "2.5.6",
+                "deviceModel": "merlinnfc",
+                "osVersion": "31",
+                "mobileId": "11x1111111111x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "operationName": "grCHGWash",
+                "prCode": "24",
+                "diverterLevel": "0",
+                "prPosition": "12",
+                "tabStatus": "0",
+                "opt7": "0",
+                "opt8": "0",
+                "opt9": "0",
+                "extraDry": "0",
+                "autoSoftenerStatus": "0",
+                "ecoExpress": "0",
+                "delayTime": "9",
+                "halfLoad": "0",
+                "openDoor": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.HYGIENE",
+            "ancillaryParameters": {
+                "ecoIndex": "1",
+                "remoteActionable": "1",
+                "temp": "75",
+                "programType": "WD",
+                "energyConsumption": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"tabStatus\":\"0\",\"opt2\":\"1.75\",\"opt3\":\"0\",\"opt4\":\"1.97\",\"opt5\":\"1.49\",\"opt7\":\"0\",\"opt8\":\"1.98\",\"opt4\":{\"opt5\":\"1.65\"},\"opt5\":{\"opt4\":\"1.65\"},\"opt2\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt2\":\"0\"},\"opt8\":{\"tabStatus\":{\"opt2\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt2\":{\"opt8\":\"0\"},\"opt8\":{\"opt2\":\"0\"}},\"opt2\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt5\":\"0\"},\"opt3\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"}},\"opt7\":{\"opt3\":\"0\"},\"opt3\":{\"opt7\":\"0\"},\"opt3\":{\"opt4\":\"0\"},\"opt4\":{\"opt3\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt8\":\"0\"},\"opt2\":{\"opt5\":\"1.49\"},\"opt5\":{\"opt2\":\"1.49\"},\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"},\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"},\"opt7\":{\"opt8\":\"0\"},\"opt8\":{\"opt7\":\"0\"},\"opt7\":{\"opt4\":\"0\"},\"opt4\":{\"opt7\":\"0\"},\"opt5\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt5\":{\"opt8\":\"0\"},\"opt8\":{\"opt5\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"}},\"opt3\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt7\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"}},\"default\":\"1.97\"}"
+                    ]
+                },
+                "waterSaving": "56",
+                "suggestedLoadD": "RL100",
+                "remoteVisible": "1",
+                "energyLabel": "1",
+                "ecoIndexOpts": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"opt2\":{\"opt5\":\"1.5\",\"tabStatus\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt8\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"default\":\"1.5\"},\"opt3\":{\"opt4\":\"1\",\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"opt4\":{\"opt8\":\"1\",\"opt5\":\"1\",\"opt7\":\"1\",\"opt3\":\"1\",\"default\":\"0.5\"},\"opt5\":{\"opt4\":\"1\",\"opt2\":\"1.5\",\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"tabStatus\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"default\":\"1.5\"},\"opt7\":{\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt3\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt2\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"3\",\"opt2\":\"1.5\",\"opt3\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"tabStatus\":{\"opt2\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt5\":\"3\",\"opt3\":\"1\",\"opt2\":\"1.5\",\"default\":\"1\"},\"default\":\"1\"}}"
+                    ]
+                },
+                "remainingTime": "141",
+                "waterEfficiency": "1",
+                "functionalId": "13",
+                "programCluster": "traditional",
+                "programFamily": "[hidden|guided|snap]",
+                "waterConsumption": "13"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Higiene",
+                "channel": "mobileApp",
+                "energyLabel": "1",
+                "origin": "lastProgram"
+            },
+            "device": {
+                "appVersion": "2.5.4",
+                "deviceModel": "merlinnfc",
+                "osVersion": "31",
+                "mobileId": "11x1111111111x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "operationName": "grCHGWash",
+                "prCode": "24",
+                "diverterLevel": "0",
+                "prPosition": "12",
+                "tabStatus": "0",
+                "opt7": "0",
+                "opt8": "0",
+                "opt9": "0",
+                "extraDry": "0",
+                "autoSoftenerStatus": "0",
+                "ecoExpress": "0",
+                "delayTime": "0",
+                "halfLoad": "0",
+                "openDoor": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.AUTO_CARE",
+            "ancillaryParameters": {
+                "ecoIndex": "3.5",
+                "remoteActionable": "1",
+                "energyConsumption": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"tabStatus\":\"0\",\"opt2\":\"0\",\"opt3\":\"0\",\"opt4\":\"0\",\"opt5\":\"0.57\",\"opt7\":\"0\",\"opt8\":\"0\",\"opt4\":{\"opt5\":\"0\"},\"opt5\":{\"opt4\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt2\":\"0\"},\"opt8\":{\"tabStatus\":{\"opt2\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt2\":{\"opt8\":\"0\"},\"opt8\":{\"opt2\":\"0\"}},\"opt2\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt5\":\"0\"},\"opt3\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"}},\"opt7\":{\"opt3\":\"0\"},\"opt3\":{\"opt7\":\"0\"},\"opt3\":{\"opt4\":\"0\"},\"opt4\":{\"opt3\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt8\":\"0\"},\"opt2\":{\"opt5\":\"0\"},\"opt5\":{\"opt2\":\"0\"},\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"},\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"},\"opt7\":{\"opt8\":\"0\"},\"opt8\":{\"opt7\":\"0\"},\"opt7\":{\"opt4\":\"0\"},\"opt4\":{\"opt7\":\"0\"},\"opt5\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt5\":{\"opt8\":\"0\"},\"opt8\":{\"opt5\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"}},\"opt3\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt7\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"}},\"default\":\"0\"}"
+                    ]
+                },
+                "programType": "WD",
+                "temp": "45",
+                "waterSaving": "69",
+                "remoteVisible": "1",
+                "suggestedLoadD": "RL100",
+                "energyLabel": "2",
+                "ecoIndexOpts": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"opt2\":{\"opt5\":\"3.5\",\"tabStatus\":{\"opt8\":\"3.5\",\"default\":\"3.5\"},\"opt8\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"default\":\"3.5\"},\"opt3\":{\"opt4\":\"3.5\",\"opt7\":\"3.5\",\"tabStatus\":{\"opt5\":\"3.5\",\"opt8\":\"3.5\",\"default\":\"3.5\"},\"opt5\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt8\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"default\":\"3.5\"},\"opt4\":{\"opt8\":\"3.5\",\"opt5\":\"3.5\",\"opt7\":\"2.5\",\"opt3\":\"3.5\",\"default\":\"3\"},\"opt5\":{\"opt4\":\"3.5\",\"opt2\":\"3.5\",\"opt3\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"tabStatus\":{\"opt8\":\"3.5\",\"opt3\":\"3.5\",\"opt7\":\"3.5\",\"default\":\"3.5\"},\"opt7\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt8\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"default\":\"3.5\"},\"opt7\":{\"opt4\":\"2.5\",\"opt5\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt3\":\"3.5\",\"tabStatus\":{\"opt5\":\"3.5\",\"default\":\"2.5\"},\"opt8\":\"3.5\",\"default\":\"2.5\"},\"opt8\":{\"opt2\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt3\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt4\":\"3.5\",\"opt5\":{\"tabStatus\":\"3.5\",\"default\":\"3.5\"},\"opt7\":\"3.5\",\"tabStatus\":{\"opt5\":\"3.5\",\"opt2\":\"3.5\",\"opt3\":\"3.5\",\"default\":\"3.5\"},\"default\":\"3.5\"},\"tabStatus\":{\"opt2\":{\"opt8\":\"3.5\",\"default\":\"3.5\"},\"opt3\":{\"opt5\":\"3.5\",\"opt8\":\"3.5\",\"default\":\"3.5\"},\"opt5\":{\"opt8\":\"3.5\",\"opt3\":\"3.5\",\"opt7\":\"3.5\",\"default\":\"3.5\"},\"opt7\":{\"opt5\":\"3.5\",\"default\":\"2.5\"},\"opt8\":{\"opt5\":\"3.5\",\"opt3\":\"3.5\",\"opt2\":\"3.5\",\"default\":\"3.5\"},\"default\":\"3.5\"}}"
+                    ]
+                },
+                "remainingTime": "100",
+                "functionalId": "5",
+                "waterEfficiency": "3",
+                "programCluster": "traditional",
+                "smartLoadingSensor": "1",
+                "programFamily": "[hidden|guided|snap|auto]",
+                "waterConsumption": "13"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Auto Care",
+                "channel": "mobileApp",
+                "energyLabel": "2",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.3.5",
+                "deviceModel": "merlinnfc",
+                "osVersion": "31",
+                "mobileId": "11x1111111111x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "operationName": "grCHGWash",
+                "prCode": "16",
+                "diverterLevel": "0",
+                "prPosition": "8",
+                "tabStatus": "0",
+                "opt7": "0",
+                "opt8": "0",
+                "opt9": "0",
+                "extraDry": "0",
+                "autoSoftenerStatus": "0",
+                "ecoExpress": "0",
+                "delayTime": "0",
+                "halfLoad": "0",
+                "openDoor": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.RAPID_59",
+            "ancillaryParameters": {
+                "ecoIndex": "1.5",
+                "remoteActionable": "1",
+                "energyConsumption": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"tabStatus\":\"1.09\",\"opt2\":\"1.09\",\"opt3\":\"0\",\"opt4\":\"0\",\"opt5\":\"1.09\",\"opt7\":\"1.09\",\"opt8\":\"1.09\",\"opt4\":{\"opt5\":\"0\"},\"opt5\":{\"opt4\":\"0\"},\"opt2\":{\"tabStatus\":\"1.09\"},\"tabStatus\":{\"opt2\":\"1.09\"},\"opt8\":{\"tabStatus\":{\"opt2\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt2\":{\"opt8\":\"0\"},\"opt8\":{\"opt2\":\"0\"}},\"opt2\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":\"1.09\"},\"tabStatus\":{\"opt5\":\"1.09\"},\"opt3\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"}},\"opt7\":{\"opt3\":\"0\"},\"opt3\":{\"opt7\":\"0\"},\"opt3\":{\"opt4\":\"0\"},\"opt4\":{\"opt3\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt8\":\"0\"},\"opt2\":{\"opt5\":\"1.09\"},\"opt5\":{\"opt2\":\"1.09\"},\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"},\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"},\"opt7\":{\"tabStatus\":\"1.09\"},\"tabStatus\":{\"opt7\":\"1.09\"},\"opt7\":{\"opt5\":\"1.09\"},\"opt5\":{\"opt7\":\"1.09\"},\"opt7\":{\"opt8\":\"1.09\"},\"opt8\":{\"opt7\":\"1.09\"},\"opt7\":{\"opt4\":\"0\"},\"opt4\":{\"opt7\":\"0\"},\"opt5\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt5\":{\"opt8\":\"0\"},\"opt8\":{\"opt5\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"}},\"opt3\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt7\":{\"tabStatus\":{\"opt5\":\"1.09\"},\"opt5\":{\"tabStatus\":\"1.09\"}},\"opt5\":{\"tabStatus\":{\"opt7\":\"1.09\"},\"opt7\":{\"tabStatus\":\"1.09\"}},\"tabStatus\":{\"opt7\":{\"opt5\":\"1.09\"},\"opt5\":{\"opt7\":\"1.09\"}},\"default\":\"1.09\"}"
+                    ]
+                },
+                "programType": "WD",
+                "temp": "65",
+                "waterSaving": "73",
+                "remoteVisible": "1",
+                "suggestedLoadD": "RL50",
+                "energyLabel": "1",
+                "ecoIndexOpts": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"opt2\":{\"opt5\":\"3\",\"tabStatus\":{\"opt8\":\"1.5\",\"default\":\"3\"},\"opt8\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"default\":\"3\"},\"opt3\":{\"opt4\":\"3\",\"opt7\":\"3\",\"tabStatus\":{\"opt5\":\"3\",\"opt8\":\"3\",\"default\":\"3\"},\"opt5\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt8\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"default\":\"3\"},\"opt4\":{\"opt8\":\"3\",\"opt5\":\"3\",\"opt7\":\"3\",\"opt3\":\"3\",\"default\":\"3\"},\"opt5\":{\"opt4\":\"3\",\"opt2\":\"3\",\"opt3\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"tabStatus\":{\"opt8\":\"1.5\",\"opt3\":\"3\",\"opt7\":\"3\",\"default\":\"3\"},\"opt7\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt8\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"default\":\"3\"},\"opt7\":{\"opt4\":\"3\",\"opt5\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt3\":\"3\",\"tabStatus\":{\"opt5\":\"3\",\"default\":\"1\"},\"opt8\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt2\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt4\":\"3\",\"opt5\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"1.5\",\"opt2\":\"1.5\",\"opt3\":\"3\",\"default\":\"1.5\"},\"default\":\"1.5\"},\"tabStatus\":{\"opt2\":{\"opt8\":\"1.5\",\"default\":\"3\"},\"opt3\":{\"opt5\":\"3\",\"opt8\":\"3\",\"default\":\"3\"},\"opt5\":{\"opt8\":\"1.5\",\"opt3\":\"3\",\"opt7\":\"3\",\"default\":\"3\"},\"opt7\":{\"opt5\":\"3\",\"default\":\"1\"},\"opt8\":{\"opt5\":\"1.5\",\"opt3\":\"3\",\"opt2\":\"1.5\",\"default\":\"1.5\"},\"default\":\"1.5\"}}"
+                    ]
+                },
+                "remainingTime": "59",
+                "functionalId": "15",
+                "waterEfficiency": "4",
+                "programCluster": "traditional",
+                "programFamily": "[hidden|guided|snap]",
+                "waterConsumption": "11"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "R\u00e1pido 59'",
+                "channel": "mobileApp",
+                "energyLabel": "1",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.3.5",
+                "deviceModel": "merlinnfc",
+                "osVersion": "31",
+                "mobileId": "11x1111111111x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "operationName": "grCHGWash",
+                "prCode": "10",
+                "diverterLevel": "0",
+                "prPosition": "13",
+                "tabStatus": "0",
+                "opt7": "0",
+                "opt8": "0",
+                "opt9": "0",
+                "extraDry": "0",
+                "autoSoftenerStatus": "0",
+                "ecoExpress": "0",
+                "delayTime": "0",
+                "halfLoad": "0",
+                "openDoor": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    },
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.HYGIENE",
+            "ancillaryParameters": {
+                "ecoIndex": "1",
+                "remoteActionable": "1",
+                "energyConsumption": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"tabStatus\":\"0\",\"opt2\":\"1.75\",\"opt3\":\"0\",\"opt4\":\"1.97\",\"opt5\":\"1.49\",\"opt7\":\"0\",\"opt8\":\"1.98\",\"opt4\":{\"opt5\":\"1.65\"},\"opt5\":{\"opt4\":\"1.65\"},\"opt2\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt2\":\"0\"},\"opt8\":{\"tabStatus\":{\"opt2\":\"0\"},\"opt2\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt2\":{\"opt8\":\"0\"},\"opt8\":{\"opt2\":\"0\"}},\"opt2\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt5\":\"0\"},\"opt3\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"}},\"opt7\":{\"opt3\":\"0\"},\"opt3\":{\"opt7\":\"0\"},\"opt3\":{\"opt4\":\"0\"},\"opt4\":{\"opt3\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt8\":\"0\"},\"opt2\":{\"opt5\":\"1.49\"},\"opt5\":{\"opt2\":\"1.49\"},\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"},\"opt3\":{\"opt8\":\"0\"},\"opt8\":{\"opt3\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"},\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"},\"opt7\":{\"opt8\":\"0\"},\"opt8\":{\"opt7\":\"0\"},\"opt7\":{\"opt4\":\"0\"},\"opt4\":{\"opt7\":\"0\"},\"opt5\":{\"tabStatus\":{\"opt8\":\"0\"},\"opt8\":{\"tabStatus\":\"0\"}},\"opt8\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt5\":{\"opt8\":\"0\"},\"opt8\":{\"opt5\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt3\":\"0\"},\"opt3\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt3\":{\"opt5\":\"0\"},\"opt5\":{\"opt3\":\"0\"}},\"opt3\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt7\":{\"tabStatus\":{\"opt5\":\"0\"},\"opt5\":{\"tabStatus\":\"0\"}},\"opt5\":{\"tabStatus\":{\"opt7\":\"0\"},\"opt7\":{\"tabStatus\":\"0\"}},\"tabStatus\":{\"opt7\":{\"opt5\":\"0\"},\"opt5\":{\"opt7\":\"0\"}},\"default\":\"1.97\"}"
+                    ]
+                },
+                "programType": "WD",
+                "temp": "75",
+                "waterSaving": "56",
+                "remoteVisible": "1",
+                "suggestedLoadD": "RL100",
+                "energyLabel": "1",
+                "ecoIndexOpts": {
+                    "typology": "enum",
+                    "category": "general",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "{\"opt2\":{\"opt5\":\"1.5\",\"tabStatus\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt8\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"default\":\"1.5\"},\"opt3\":{\"opt4\":\"1\",\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"opt4\":{\"opt8\":\"1\",\"opt5\":\"1\",\"opt7\":\"1\",\"opt3\":\"1\",\"default\":\"0.5\"},\"opt5\":{\"opt4\":\"1\",\"opt2\":\"1.5\",\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"tabStatus\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt8\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"default\":\"1.5\"},\"opt7\":{\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt3\":\"1\",\"tabStatus\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt2\":{\"tabStatus\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"tabStatus\":\"1\",\"default\":\"1\"},\"opt4\":\"1\",\"opt5\":{\"tabStatus\":\"3\",\"default\":\"3\"},\"opt7\":\"1\",\"tabStatus\":{\"opt5\":\"3\",\"opt2\":\"1.5\",\"opt3\":\"1\",\"default\":\"1\"},\"default\":\"1\"},\"tabStatus\":{\"opt2\":{\"opt8\":\"1.5\",\"default\":\"1.5\"},\"opt3\":{\"opt5\":\"1\",\"opt8\":\"1\",\"default\":\"1\"},\"opt5\":{\"opt8\":\"3\",\"opt3\":\"1\",\"opt7\":\"1\",\"default\":\"1.5\"},\"opt7\":{\"opt5\":\"1\",\"default\":\"1\"},\"opt8\":{\"opt5\":\"3\",\"opt3\":\"1\",\"opt2\":\"1.5\",\"default\":\"1\"},\"default\":\"1\"}}"
+                    ]
+                },
+                "remainingTime": "141",
+                "functionalId": "13",
+                "waterEfficiency": "1",
+                "programCluster": "traditional",
+                "programFamily": "[hidden|guided|snap]",
+                "waterConsumption": "13"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Higiene",
+                "channel": "mobileApp",
+                "energyLabel": "1",
+                "origin": "lastProgram"
+            },
+            "device": {
+                "appVersion": "2.3.5",
+                "deviceModel": "merlinnfc",
+                "osVersion": "31",
+                "mobileId": "11x1111111111x1x",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "operationName": "grCHGWash",
+                "prCode": "24",
+                "diverterLevel": "0",
+                "prPosition": "12",
+                "tabStatus": "0",
+                "opt7": "0",
+                "opt8": "0",
+                "opt9": "0",
+                "extraDry": "0",
+                "autoSoftenerStatus": "0",
+                "ecoExpress": "0",
+                "delayTime": "0",
+                "halfLoad": "0",
+                "openDoor": "1",
+                "autoDetergentStatus": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]

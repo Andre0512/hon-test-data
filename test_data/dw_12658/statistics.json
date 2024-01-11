@@ -1,0 +1,46 @@
+{
+    "resultCode": "0",
+    "programsCounter": 44,
+    "mostUsedPrograms": [
+        {
+            "count": 30,
+            "programType": "D",
+            "prCode": "8",
+            "prPosition": "3",
+            "programName": "PROGRAMS.DW.ECO"
+        },
+        {
+            "count": 5,
+            "programType": "D",
+            "prCode": "2",
+            "prPosition": "4",
+            "programName": "PROGRAMS.DW.INTENSIVE"
+        },
+        {
+            "count": 3,
+            "programType": "D",
+            "prCode": "24",
+            "prPosition": "12",
+            "programName": "PROGRAMS.DW.HYGIENE"
+        },
+        {
+            "count": 3,
+            "programType": "D",
+            "prCode": "5",
+            "prPosition": "2",
+            "programName": "PROGRAMS.DW.UNIVERSAL"
+        },
+        {
+            "count": 3,
+            "programType": "D",
+            "prCode": "10",
+            "prPosition": "13",
+            "programName": "PROGRAMS.DW.RAPID_59"
+        }
+    ],
+    "temperatureUsage": {
+        "temp70to75": 2,
+        "temp60to65": 2,
+        "temp45to55": 14
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "id": 12658,
+    "code": "11111111",
+    "applianceTypeId": 9,
+    "applianceTypeName": "DW",
+    "brand": "candy",
+    "connectivity": "wifi|ble",
+    "modelName": "CF 3C7L0X",
+    "series": "h20",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "1.8.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 63336,
+            "parName": "enrollmentType",
+            "parValue": "3.3",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63340,
+            "parName": "counters",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63344,
+            "parName": "display",
+            "parValue": "led",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63348,
+            "parName": "fwLabel",
+            "parValue": "iotfw_ec3",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63352,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63356,
+            "parName": "interfaceType",
+            "parValue": "series|installationType|display|option",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63360,
+            "parName": "lowerBarrierDate",
+            "parValue": "2204",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63364,
+            "parName": "lowRackVol",
+            "parValue": "49400",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63368,
+            "parName": "motor",
+            "parValue": "bldc",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63372,
+            "parName": "optCompatibility",
+            "parValue": "eyJmdW5jdGlvbmFsSWQiOnsiNiI6eyJvcHQ1IjoiMCJ9LCI3Ijp7Im9wdDQiOnsib3B0NSI6IjAifSwib3B0NSI6eyJvcHQ0IjoiMCJ9fSwiMTMiOnsib3B0MiI6eyJ0YWJTdGF0dXMiOiIwIn0sInRhYlN0YXR1cyI6eyJvcHQyIjoiMCJ9fSwiMTYiOnsidGFiU3RhdHVzIjoiMCJ9LCIxM3wxNSI6eyJvcHQ4Ijp7InRhYlN0YXR1cyI6IjAiLCJvcHQyIjoiMCJ9LCJ0YWJTdGF0dXMiOnsib3B0OCI6IjAifSwib3B0MiI6eyJvcHQ4IjoiMCJ9LCJ0YWJTdGF0dXMiOnsib3B0MiI6eyJvcHQ4IjoiMCJ9LCJvcHQ4Ijp7Im9wdDIiOiIwIn19LCJvcHQyIjp7InRhYlN0YXR1cyI6eyJvcHQ4IjoiMCJ9LCJvcHQ4Ijp7InRhYlN0YXR1cyI6IjAifX0sIm9wdDgiOnsidGFiU3RhdHVzIjp7Im9wdDIiOiIwIn0sIm9wdDIiOnsidGFiU3RhdHVzIjoiMCJ9fX0sIjd8MTMiOnsib3B0NSI6eyJ0YWJTdGF0dXMiOiIwIn0sInRhYlN0YXR1cyI6eyJvcHQ1IjoiMCJ9fSwiNnwxOHw3fDh8MTZ8M3w1fDQiOnsib3B0MiI6IjAifSwiNnwxOHw4fDE1fDE2Ijp7Im9wdDQiOiIwIn0sIjZ8MTh8N3w4fDE1fDEzfDE2fDN8NXw0Ijp7Im9wdDMiOiIwIn0sIjl8NnwxOHw3fDh8MTN8MTYiOnsib3B0NyI6IjAifSwiOXw2fDE4fDd8OHwxNnwzfDV8NCI6eyJvcHQ4IjoiMCJ9LCIxfDIwIjp7Im9wdDMiOnsib3B0NyI6IjAifSwib3B0NyI6eyJvcHQzIjoiMCJ9LCJvcHQzIjp7Im9wdDgiOiIwIn0sIm9wdDgiOnsib3B0MyI6IjAifSwidGFiU3RhdHVzIjp7Im9wdDMiOnsib3B0OCI6IjAifSwib3B0OCI6eyJvcHQzIjoiMCJ9fSwib3B0MyI6eyJ0YWJTdGF0dXMiOnsib3B0OCI6IjAifSwib3B0OCI6eyJ0YWJTdGF0dXMiOiIwIn19LCJvcHQ4Ijp7InRhYlN0YXR1cyI6eyJvcHQzIjoiMCJ9LCJvcHQzIjp7InRhYlN0YXR1cyI6IjAifX19LCIxfDl8MjAiOnsib3B0MyI6eyJvcHQ0IjoiMCJ9LCJvcHQ0Ijp7Im9wdDMiOiIwIn19fX0=",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63376,
+            "parName": "option",
+            "parValue": "openDoor|express|tabStatus|extraDry|halfLoad|hygiene|intensive|openDoorCommand",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63380,
+            "parName": "placeSetting",
+            "parValue": "13",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63384,
+            "parName": "remainingTime",
+            "parValue": "remainingTime+remainingTimeOpts",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63388,
+            "parName": "sensor",
+            "parValue": "salt",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63392,
+            "parName": "series",
+            "parValue": "h20",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63396,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63400,
+            "parName": "upRackVol",
+            "parValue": "41500",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 63404,
+            "parName": "counters",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 3,
+    "applianceModelId": 12658,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "70013060",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 906,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": -1.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:xx111x11-1111-1111-xx11-xx1x111x1x1x"
+}
