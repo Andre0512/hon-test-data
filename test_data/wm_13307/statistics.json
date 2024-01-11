@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 12,
+    "mostUsedPrograms": [
+        {
+            "count": 3,
+            "programType": "W+D",
+            "prCode": "11",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WM_WD.CARE_44"
+        },
+        {
+            "count": 3,
+            "programType": "W+D+S",
+            "prCode": "12",
+            "prPosition": "14",
+            "programName": "PROGRAMS.WM_WD.ALL_IN_ONE_59"
+        },
+        {
+            "count": 1,
+            "programType": "W+D",
+            "prCode": "10",
+            "prPosition": "13",
+            "programName": "PROGRAMS.WM_WD.CARE_30"
+        },
+        {
+            "count": 1,
+            "programType": "W+D",
+            "prCode": "12",
+            "prPosition": "14",
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_DENIM_JEANS"
+        },
+        {
+            "count": 1,
+            "programType": "W+D+S",
+            "prCode": "14",
+            "prPosition": "15",
+            "programName": "PROGRAMS.WM_WD.AUTOCARE"
+        }
+    ],
+    "temperatureUsage": {
+        "temp40": 6,
+        "temp0to30": 5,
+        "temp60to90": 1
+    },
+    "loadingPercentage": [
+        {
+            "max": 3,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3
+        },
+        {
+            "max": 2,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2
+        },
+        {
+            "max": 7,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 7
+        },
+        {
+            "max": 3,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 3.15
+        }
+    ]
+}
