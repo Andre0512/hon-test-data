@@ -1,0 +1,25 @@
+{
+    "resultCode": "0",
+    "programsCounter": 1,
+    "mostUsedPrograms": [
+        {
+            "count": 1,
+            "programType": "W+D+S",
+            "prCode": "4",
+            "prPosition": "11",
+            "programName": "PROGRAMS.WM_WD.IOT_WASH_DELICATE_COLORS"
+        }
+    ],
+    "temperatureUsage": {
+        "temp40": 0,
+        "temp0to30": 1,
+        "temp60to90": 0
+    },
+    "loadingPercentage": [
+        {
+            "max": 3.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 0.805
+        }
+    ]
+}
