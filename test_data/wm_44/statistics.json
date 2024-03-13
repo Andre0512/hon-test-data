@@ -1,0 +1,73 @@
+{
+    "resultCode": "0",
+    "programsCounter": 213,
+    "mostUsedPrograms": [
+        {
+            "count": 48,
+            "programType": "W+D+S",
+            "prCode": "14",
+            "prPosition": "15",
+            "programName": "PROGRAMS.WM_WD.AUTOCARE"
+        },
+        {
+            "count": 40,
+            "programType": "W+D",
+            "prCode": "51",
+            "prPosition": "12",
+            "programName": "PROGRAMS.WM_WD.ALLERGY_CARE"
+        },
+        {
+            "count": 10,
+            "programType": "W+D+S",
+            "prCode": "14",
+            "prPosition": "15",
+            "programName": "PROGRAMS.WD.AUTOCARE"
+        },
+        {
+            "count": 5,
+            "programType": "W+D",
+            "prCode": "51",
+            "prPosition": "12",
+            "programName": "PROGRAMS.WD.ALLERGY_CARE"
+        },
+        {
+            "count": 5,
+            "programType": "W+D+S",
+            "prCode": "12",
+            "prPosition": "14",
+            "programName": "PROGRAMS.WM_WD.ALL_IN_ONE_59"
+        }
+    ],
+    "temperatureUsage": {
+        "temp0to30": 39.906103286384976,
+        "temp40": 23.474178403755868,
+        "temp60to90": 36.61971830985916
+    },
+    "loadingPercentage": [
+        {
+            "max": 4.5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 0.63
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 1.4
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 2.1
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 0.7
+        },
+        {
+            "max": 5,
+            "date": "1970-01-01T00:00:00.0Z",
+            "current": 1.05
+        }
+    ]
+}
