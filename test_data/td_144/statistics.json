@@ -1,0 +1,43 @@
+{
+    "resultCode": "0",
+    "programsCounter": 98,
+    "mostUsedPrograms": [
+        {
+            "count": 41,
+            "programType": "D",
+            "prCode": "49",
+            "prPosition": "15",
+            "programName": "PROGRAMS.TD.AUTO_CARE"
+        },
+        {
+            "count": 38,
+            "programType": "D",
+            "prCode": "2",
+            "prPosition": "2",
+            "programName": "PROGRAMS.TD.WHITES"
+        },
+        {
+            "count": 2,
+            "programType": "D",
+            "prCode": "53",
+            "prPosition": "13",
+            "programName": "PROGRAMS.TD.CARE_30"
+        },
+        {
+            "count": 2,
+            "programType": "D",
+            "prCode": "5",
+            "prPosition": "6",
+            "programName": "PROGRAMS.TD.SYNTHETICS"
+        },
+        {
+            "count": 1,
+            "programType": "D",
+            "prCode": "49",
+            "prPosition": "15",
+            "programName": "PROGRAMS.TD.IOT_DRY_DUVET"
+        }
+    ],
+    "temperatureUsage": {},
+    "loadingPercentage": []
+}

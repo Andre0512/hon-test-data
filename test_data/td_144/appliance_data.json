@@ -1,0 +1,136 @@
+{
+    "id": 144,
+    "code": "11111111",
+    "applianceTypeId": 8,
+    "applianceTypeName": "TD",
+    "brand": "hoover",
+    "connectivity": "wifi|ble",
+    "modelName": "NDP4 H7A2TCBEX-S",
+    "series": "h-dry500",
+    "structure": "heatpump",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "3.1.6",
+    "attributes": [
+        {
+            "id": 1222,
+            "parName": "lowerBarrierDate",
+            "parValue": "2001",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1223,
+            "parName": "series",
+            "parValue": "h-dry500",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1224,
+            "parName": "loadCapacityDry",
+            "parValue": "7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1226,
+            "parName": "structure",
+            "parValue": "heatpump",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1227,
+            "parName": "tankPosition",
+            "parValue": "door",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1228,
+            "parName": "display",
+            "parValue": "5D",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1229,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|display|structure|tankPosition",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 1230,
+            "parName": "supportedLanguage",
+            "parValue": "en|it|fr|nl|pt|es|de|bg|cs|sk|hr|el|pl|sr|sl|ro|ru|uk|hu|da|fi|no|sv|tr",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 9525,
+            "parName": "seriesVersion",
+            "parValue": "professional",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 13391,
+            "parName": "option",
+            "parValue": "tumbling",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 13430,
+            "parName": "tumblingType",
+            "parValue": "auto",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 19348,
+            "parName": "platform",
+            "parValue": "CHG",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 37819,
+            "parName": "serviceability",
+            "parValue": "ble",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61921,
+            "parName": "fwLabel",
+            "parValue": "sdui",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 92188,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "applianceModelId": 144,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "40015545",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "1111111111111111",
+    "nickName": "Xx\x1111x\x111xxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 54,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 11.111111111111111,
+        "lat": 11.11111111111111
+    },
+    "PK": "xxxx#xx-xxxx-1:x11xxxx1-1x11-1xx1-111x-11x11xx111xx"
+}
