@@ -1,0 +1,139 @@
+{
+    "id": 10131,
+    "code": "X11XX1X1111",
+    "applianceTypeId": 16,
+    "applianceTypeName": "FRE",
+    "brand": "haier",
+    "connectivity": "wifi|ble",
+    "modelName": "H3F330WDH1",
+    "series": "instaswitch",
+    "purchaseDate": "1970-01-01T00:00:00.0Z",
+    "fwVersion": "5.15.0",
+    "firstEnrollment": true,
+    "attributes": [
+        {
+            "id": 36984,
+            "parName": "zones",
+            "parValue": "vtRoom1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36985,
+            "parName": "vtZone",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36986,
+            "parName": "technology",
+            "parValue": "tnf",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36987,
+            "parName": "seriesVersion",
+            "parValue": "up60Series7",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36988,
+            "parName": "series",
+            "parValue": "instaswitch",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36989,
+            "parName": "sensor",
+            "parValue": "doorAlarmFreezer",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36990,
+            "parName": "option",
+            "parValue": "ecoMode|quickCool|superFreeze|shockFreeze",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36991,
+            "parName": "lowerBarrierDate",
+            "parValue": "2216",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36992,
+            "parName": "interfaceType",
+            "parValue": "series|seriesVersion|installationType|doorNumber",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36993,
+            "parName": "installationType",
+            "parValue": "fs",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36994,
+            "parName": "enrollmentType",
+            "parValue": "app",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 36995,
+            "parName": "doorNumber",
+            "parValue": "1",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 39793,
+            "parName": "serviceability",
+            "parValue": "none",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 61364,
+            "parName": "fwLabel",
+            "parValue": "iotfw_epp",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        },
+        {
+            "id": 79148,
+            "parName": "plmCode",
+            "parValue": "37001499",
+            "status": 1,
+            "lastUpdate": "1970-01-01T00:00:00.0Z"
+        }
+    ],
+    "defaultWarrantyYears": 2,
+    "applianceModelId": 10131,
+    "firstEnrollmentTBC": true,
+    "SK": "xxx#xx-xx-xx-xx-xx-xx",
+    "macAddress": "xx-xx-xx-xx-xx-xx",
+    "eepromName": "no_eeprom",
+    "applianceId": "xx-xx-xx-xx-xx-xx#1970-01-01T00:00:00.0Z",
+    "serialNumber": "X11XX1X1111XXX111111",
+    "nickName": "Xxxxxxx",
+    "enrollmentDate": "1970-01-01T00:00:00.0Z",
+    "sfPersonAccountId": "001R200000CGkw4IAD",
+    "lastUpdate": "1970-01-01T00:00:00.0Z",
+    "eepromId": 41,
+    "applianceStatus": 1,
+    "coords": {
+        "lng": 1.1111111,
+        "lat": 11.1111111
+    },
+    "PK": "xxxx#xx-xxxx-1:x1x111x1-xxx1-xx1x-11xx-111x1111x1xx"
+}

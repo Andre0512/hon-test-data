@@ -1,0 +1,395 @@
+{
+    "applianceModel": {
+        "id": 10131,
+        "name": "H3F330WDH1",
+        "code": "X11XX1X1111",
+        "applianceTypeId": 16,
+        "applianceTypeName": "FRE",
+        "brand": "haier",
+        "connectivity": "wifi|ble",
+        "attributes": [
+            {
+                "id": 36984,
+                "parName": "zones",
+                "parValue": "vtRoom1",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36985,
+                "parName": "vtZone",
+                "parValue": "1",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36986,
+                "parName": "technology",
+                "parValue": "tnf",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36987,
+                "parName": "seriesVersion",
+                "parValue": "up60Series7",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36988,
+                "parName": "series",
+                "parValue": "instaswitch",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36989,
+                "parName": "sensor",
+                "parValue": "doorAlarmFreezer",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36990,
+                "parName": "option",
+                "parValue": "ecoMode|quickCool|superFreeze|shockFreeze",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36991,
+                "parName": "lowerBarrierDate",
+                "parValue": "2216",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36992,
+                "parName": "interfaceType",
+                "parValue": "series|seriesVersion|installationType|doorNumber",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36993,
+                "parName": "installationType",
+                "parValue": "fs",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36994,
+                "parName": "enrollmentType",
+                "parValue": "app",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 36995,
+                "parName": "doorNumber",
+                "parValue": "1",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 39793,
+                "parName": "serviceability",
+                "parValue": "none",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 61364,
+                "parName": "fwLabel",
+                "parValue": "iotfw_epp",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            {
+                "id": 79148,
+                "parName": "plmCode",
+                "parValue": "37001499",
+                "status": 1,
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        ],
+        "options": {}
+    },
+    "settings": {
+        "setConfig": {
+            "description": "The message allows to set platform parameters",
+            "protocolType": "MQTT",
+            "parameters": {
+                "httpEndpoint": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 0
+                },
+                "mqttEndpoint": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 0
+                }
+            }
+        },
+        "setParameters": {
+            "description": "The message allows to change parameters values to enable/disable specific features ",
+            "protocolType": "MQTT",
+            "parameters": {
+                "quickModeZ1": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "0"
+                },
+                "quickModeZ2": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "0"
+                },
+                "tempSelZ3": {
+                    "category": "command",
+                    "typology": "enum",
+                    "mandatory": 0,
+                    "enumValues": [
+                        4,
+                        -16,
+                        -18,
+                        -20,
+                        -24
+                    ]
+                }
+            }
+        }
+    },
+    "stopProgram": {
+        "description": "The message allows to stop the program",
+        "protocolType": "MQTT",
+        "parameters": {
+            "quickModeZ1": {
+                "category": "command",
+                "typology": "fixed",
+                "mandatory": 0,
+                "fixedValue": "0"
+            },
+            "quickModeZ2": {
+                "category": "command",
+                "typology": "fixed",
+                "mandatory": 0,
+                "fixedValue": "0"
+            }
+        }
+    },
+    "startProgram": {
+        "PROGRAMS.FRE.QUICK_COOL": {
+            "description": "The command allows to start a program",
+            "protocolType": "MQTT",
+            "parameters": {
+                "quickModeZ1": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "{\"@tempSelZ3\":{\"4\":\"1\",\"default\":\"0\"}}"
+                }
+            },
+            "ancillaryParameters": {
+                "nameVariants": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "series"
+                },
+                "programFamily": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "dashboard"
+                    ],
+                    "defaultValue": "[dashboard]"
+                },
+                "remoteActionable": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "remoteVisible": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "zone": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "fridge"
+                    ],
+                    "defaultValue": "[fridge]"
+                }
+            }
+        },
+        "PROGRAMS.FRE.SHOCK_FREEZE": {
+            "description": "The command allows to start a program",
+            "protocolType": "MQTT",
+            "parameters": {
+                "quickModeZ1": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "{\"@tempSelZ3\":{\"-16|-18|-20|-24\":\"1\",\"default\":\"0\"}}"
+                },
+                "quickModeZ2": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "0"
+                }
+            },
+            "ancillaryParameters": {
+                "nameVariants": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "series"
+                },
+                "programFamily": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "dashboard"
+                    ],
+                    "defaultValue": "[dashboard]"
+                },
+                "remoteActionable": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "remoteVisible": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "zone": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "freezer"
+                    ],
+                    "defaultValue": "[freezer]"
+                }
+            }
+        },
+        "PROGRAMS.FRE.ECO_MODE": {
+            "description": "The command allows to start a program",
+            "protocolType": "MQTT",
+            "parameters": {
+                "quickModeZ2": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "0"
+                },
+                "tempSelZ3": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "-16"
+                }
+            },
+            "ancillaryParameters": {
+                "programFamily": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "dashboard"
+                    ],
+                    "defaultValue": "[dashboard]"
+                },
+                "remoteActionable": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "remoteVisible": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "zone": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "freezer"
+                    ],
+                    "defaultValue": "[freezer]"
+                }
+            }
+        },
+        "PROGRAMS.FRE.SUPER_FREEZE": {
+            "description": "The command allows to start a program",
+            "protocolType": "MQTT",
+            "parameters": {
+                "quickModeZ1": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "0"
+                },
+                "quickModeZ2": {
+                    "category": "command",
+                    "typology": "fixed",
+                    "mandatory": 1,
+                    "fixedValue": "{\"@tempSelZ3\":{\"-16|-18|-20|-24\":\"1\",\"default\":\"0\"}}"
+                }
+            },
+            "ancillaryParameters": {
+                "programFamily": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "dashboard"
+                    ],
+                    "defaultValue": "[dashboard]"
+                },
+                "remoteActionable": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "remoteVisible": {
+                    "category": "general",
+                    "typology": "fixed",
+                    "mandatory": 0,
+                    "fixedValue": "1"
+                },
+                "zone": {
+                    "category": "cluster",
+                    "typology": "enum",
+                    "mandatory": 1,
+                    "enumValues": [
+                        "freezer"
+                    ],
+                    "defaultValue": "[freezer]"
+                }
+            }
+        }
+    },
+    "options": {},
+    "dictionaryId": 265
+}
