@@ -1,0 +1,29 @@
+{
+    "resultCode": "0",
+    "programsCounter": 178,
+    "mostUsedPrograms": [
+        {
+            "count": 143,
+            "programType": "D",
+            "prCode": "63",
+            "prPosition": "2",
+            "programName": "PROGRAMS.TD.HQD_SYNTHETICS"
+        },
+        {
+            "count": 17,
+            "programType": "D",
+            "prCode": "63",
+            "prPosition": "2",
+            "programName": "PROGRAMS.TD.IOT_DRY_SYNTHETICS"
+        },
+        {
+            "count": 3,
+            "programType": "D",
+            "prCode": "66",
+            "prPosition": "5",
+            "programName": "PROGRAMS.TD.HQD_BED_SHEETS"
+        }
+    ],
+    "temperatureUsage": {},
+    "loadingPercentage": []
+}
