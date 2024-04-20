@@ -1,0 +1,78 @@
+[
+    {
+        "timestampAccepted": "1970-01-01T00:00:00.0Z",
+        "timestampExecuted": "1970-01-01T00:00:00.0Z",
+        "SK": "xxxXxxxxxx#xxxxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "PK": "xxxx#xx-xxxx-1:x1x111x1-xx11-x1xx-xx1x-111111xx111x#xxx#xx-xx-xx-xx-xx-xx",
+        "SK_Secondary": "xxxXxxxxxx#1111-11-11X11:11:11.1X",
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {
+                "opt1": "threeInOne",
+                "opt2": "ecoExpress",
+                "opt3": "halfLoad",
+                "opt4": "extraDry",
+                "opt5": "openDoor",
+                "opt6": "addDish"
+            },
+            "programName": "PROGRAMS.DW.AUTO_WASH",
+            "ancillaryParameters": {
+                "ecoIndex": "2.5",
+                "powerWashPrz": "0",
+                "remoteActionable": "1",
+                "programType": "WD",
+                "temp": "65",
+                "waterSaving": "69",
+                "remoteVisible": "1",
+                "suggestedLoadD": "RL100",
+                "energyLabel": "3",
+                "remainingTime": "144",
+                "functionalId": "3",
+                "waterEfficiency": "3",
+                "smartLoadingSensor": "1",
+                "programFamily": "[hidden|guided|snap|auto]",
+                "waterConsumption": "13"
+            },
+            "applianceType": "DW",
+            "attributes": {
+                "prStr": "Lavage automatique",
+                "channel": "mobileApp",
+                "energyLabel": "3",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.9.4",
+                "deviceModel": "redfin",
+                "osVersion": "34",
+                "mobileId": "1xxx1xx1x1111x11",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "threeInOne": "0",
+                "opt10": "0",
+                "temp": "60",
+                "operationName": "grCHGWash",
+                "prCode": "15",
+                "diverterLevel": "0",
+                "prPosition": "6",
+                "tabStatus": "0",
+                "undefined": "1",
+                "opt7": "0",
+                "duration": "120",
+                "opt8": "0",
+                "functionalId": 3,
+                "opt9": "0",
+                "extraDry": "0",
+                "ecoExpress": "0",
+                "delayTime": "0",
+                "halfLoad": "0",
+                "openDoor": "0",
+                "onOffStatus": "1"
+            },
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        },
+        "lastUpdate": "1970-01-01T00:00:00.0Z"
+    }
+]
