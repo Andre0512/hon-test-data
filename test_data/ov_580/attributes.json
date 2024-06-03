@@ -1,0 +1,146 @@
+{
+    "resultCode": "0",
+    "shadow": {
+        "parameters": {
+            "prPosition": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "recipeStats": {
+                "parNewVal": "",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "recipeId": {
+                "parNewVal": "NULL",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remainingTimeMM": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "programStats": {
+                "parNewVal": "5F;28;;;3;1;4;;31;1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempSel": {
+                "parNewVal": "180",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "recipeStep": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "recipeCount": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "clockHH": {
+                "parNewVal": "22",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "clockMM": {
+                "parNewVal": "59",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "clockSS": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "onOffStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "preheatStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "lockStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "temp": {
+                "parNewVal": "13",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "machMode": {
+                "parNewVal": "1",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "programCount": {
+                "parNewVal": "193",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "errors": {
+                "parNewVal": "00",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "remoteCtrValid": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "prCode": {
+                "parNewVal": "5",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "delayTime": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            },
+            "tempStatus": {
+                "parNewVal": "0",
+                "lastUpdate": "1970-01-01T00:00:00.0Z"
+            }
+        }
+    },
+    "activity": {},
+    "commandHistory": {
+        "command": {
+            "macAddress": "xx-xx-xx-xx-xx-xx",
+            "commandName": "startProgram",
+            "applianceOptions": {},
+            "programName": "PROGRAMS.OV.MULTI_LEVEL",
+            "ancillaryParameters": {
+                "remoteActionable": "1",
+                "programFamily": "[dashboard|manual]",
+                "remoteVisible": "1",
+                "probe": "0"
+            },
+            "applianceType": "OV",
+            "attributes": {
+                "channel": "mobileApp",
+                "origin": "standardProgram"
+            },
+            "device": {
+                "appVersion": "2.10.3",
+                "deviceModel": "FP4",
+                "osVersion": "33",
+                "mobileId": "1x1111xxx11xxxx1",
+                "mobileOs": "android"
+            },
+            "parameters": {
+                "prTime": "6",
+                "preheatStatus": "1",
+                "tempSel": "200",
+                "recipeStep": "0",
+                "prCode": "23",
+                "delayTime": "0",
+                "prPosition": "8",
+                "onOffStatus": "1",
+                "recipeId": "NULL"
+            },
+            "recipeId": "NULL",
+            "transactionId": "xx-xx-xx-xx-xx-xx_1970-01-01T00:00:00.0Z",
+            "timestamp": "1970-01-01T00:00:00.0Z"
+        }
+    },
+    "lastConnEvent": {
+        "macAddress": "xx-xx-xx-xx-xx-xx",
+        "category": "CONNECTED",
+        "instantTime": "1970-01-01T00:00:00.0Z",
+        "timestampEvent": 1717447822007
+    }
+}
